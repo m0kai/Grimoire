@@ -1,0 +1,37 @@
+-- -
+### What to look for
+- Network Information
+	- IP Addresses
+	- Netblock Information 
+	- Public Facing Infrastructure
+	- Cloud Presence
+	- Hosting Providers
+	- DNS Records
+- Domain Information
+	- Who Administers the domain?
+	- Subdomains
+	- Publicly accessible domain services:
+		- Mail Servers
+		- DNS Servers
+		- Websites
+		- VPN portals
+	- Defenses in place
+		- SIEM
+		- AVs
+		- IPS/IDS
+- Formatting Information
+	- Email account format
+	- AD username format
+	- Password policies
+- Publicly Accessible Files
+	- .pdf, .ppt, .docx, .xlsx files on google
+	- Look for:
+		- metadata
+		- intranet site listings
+		- Shares
+		- Software information
+		- Hardware information
+		- Github/Gitlab repos
+		- Credentials in commits
+- Breach Data
+	- Publicly released usernames, passwords, etc from a previous data breach. 

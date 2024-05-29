@@ -1,0 +1,33 @@
+-- -
+- ASN/IP Registrars
+	- [IANA](https://www.iana.org/) (America)
+	- [arin](https://www.arin.net/) (America)
+	- [RIPE](https://www.ripe.net/) (Europe)
+	- [BGP](https://bgp.he.net/) (both?)
+- Domain Registrars & DNS
+	- [Domaintools](https://www.domaintools.com/?s)
+	- [ICANN](https://lookup.icann.org/en)
+	- [viewdns.info](https://viewdns.info/)
+- Cloud & Dev Storage Spaces
+	- [Greyhat Warfare](https://grayhatwarfare.com/)
+	- [TruffleHog](https://github.com/trufflesecurity/truffleHog)
+	- [GitHub](https://github.com/)
+	- [Google Dorks](https://www.exploit-db.com/google-hacking-database)
+- Breach Data Sources
+	- [haveibeenpwned](https://haveibeenpwned.com/) (email)
+	- [Dehashed](https://www.dehashed.com/) (email, passwords, hashes)
+- Social Media
+	- [LinkedIn](https://www.linkedin.com/)
+	- [Twitter](https://x.com/)
+	- [Facebook](https://www.facebook.com/)
+	- News Articles
+- Public-Facing Company Websites
+	- News articles
+	- embedded documents
+	- About Us page
+	- Contact Us page
+- Job Postings
+	- Can show infrastructure and tech stack data
+	- [LinkedIn](https://www.linkedin.com/)
+	- [Glassdoor](https://www.glassdoor.com/index.htm)
+	- [Indeed](https://www.indeed.com/)
