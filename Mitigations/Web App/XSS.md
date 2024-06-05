@@ -1,0 +1,3 @@
+-- -
+#### Encoding
+One simple way to mitigate XSS is to encode key characters so they are represented in the HTML as the developer would expect, but does not allow for any injected code (via user input) to be correctly interpreted as Javascript and get code execution. This requires the developer evaluates the context of the XSS user input. For example, if you take user input and terminate their input string with a single quote, then you need to make sure to encode any input from the user such that if they input a single quote, that single quote gets encoded to its hex representation when it is written to the HTML of the web page. The following shows various encoded representations for common XSS important characters. They can be found [[Mitigations/Web App/XSS|here]].

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Mitigations/Web App/XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Mitigations/Web App/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Mitigations/Web App/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Mitigations/Web App/XSS.md"
               }
             }
           }
@@ -146,6 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9b64c0f59b73062",
-  "lastOpenFiles": []
+  "active": "bbfe8eb6b020b56a",
+  "lastOpenFiles": [
+    "Mitigations/Web App",
+    "Mitigations/Active Directory",
+    "Encoding/HTML.md",
+    "Mitigations/Web App/XSS.md",
+    "Web App/XSS.md",
+    "Encoding",
+    "Tools/Active Directory/crackmapexec.md",
+    "Web App/XSS",
+    "Active Directory/Attacks/Password Spray.md",
+    "Active Directory/Attacks/LLMNR, NBT-NS, & MDNS Poisoning.md",
+    "Tools/Active Directory/kerbrute.md",
+    "Tools/Active Directory/rpcclient.md",
+    "Active Directory/Enumeration/Username Enumeration.md",
+    "Tools/Active Directory/windapsearch.md",
+    "Tools/Active Directory/ldapsearch.md",
+    "Web App/APIs/Enum endpoints.md",
+    "Web App/APIs/Enum Docs.md",
+    "README.md",
+    "Web App/APIs",
+    "Web App"
+  ]
 }
