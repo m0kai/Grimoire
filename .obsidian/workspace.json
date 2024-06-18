@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "cdfc91dccc6789a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "239159411df128e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9b64c0f59b73062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rice/Get Nvidia working.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59cd9840e69e25b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark Arts/Tools/mimikatz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eff707c5bcce75b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d66e04960a3154c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbfe8eb6b020b56a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79ec9351acef6d8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7445755776f95ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "fbf21b423a1ec729",
+    "type": "split",
+    "children": [
+      {
+        "id": "f37f1c2928cb3ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa9db04165164885",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rice/Get Nvidia working.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9facb541d440b2d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rice/Get Nvidia working.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28bf87a7bd5f8bd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "771949f73efc245e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rice/Get Nvidia working.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e9b64c0f59b73062",
+  "lastOpenFiles": [
+    "Laptop/Watchlist.md",
+    "Rice/Get Nvidia working.md",
+    "Dark Arts/Active Directory/Attacks/DCSync Attack.md",
+    "Dark Arts/Tools/mimikatz.md",
+    "Dark Arts/Tools/Active Directory/Windows/PowerShell.md",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Windows/User Enum.md",
+    "Dark Arts/Tools/Active Directory/Windows/PowerView (depricated).md",
+    "Dark Arts/Active Directory/Attacks/Kerberoasting.md",
+    "Dark Arts/Tools/Active Directory/Windows/Rubeus.md",
+    "Dark Arts/Active Directory/Attacks/Abuse ACLs.md",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Windows/ACLs.md",
+    "Dark Arts/Mitigations/Active Directory/Kerberoasting.md",
+    "Laptop",
+    "Dark Arts/Tools/Passwords/Hashcat.md",
+    "Dark Arts/Tools/Active Directory/Impacket/GetUserSPNs.md",
+    "Dark Arts/Tools/Active Directory/Impacket/Install Toolkit.md",
+    "Dark Arts/Tools/Windows Builtin/Dsquery.md",
+    "Dark Arts/Active Directory/Enumeration/Living off the Land/Domain Enum.md",
+    "Dark Arts/Tools/Windows Builtin/Net.md",
+    "Dark Arts/Active Directory/Enumeration/Living off the Land/Host Enumeration (Windows).md",
+    "Dark Arts/Tools/Windows Builtin/Windows Management Instrumentation (WMI).md",
+    "Dark Arts/Tools/Windows Builtin",
+    "Dark Arts/Tools/Windows Builtin/PowerShell.md",
+    "Dark Arts/Active Directory/Enumeration/Living off the Land/Network Enumeration (Windows).md",
+    "Dark Arts/Active Directory/Enumeration/Living off the Land",
+    "Dark Arts/Tools/nmap.md",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Linux/Get non-standard shell.md",
+    "Dark Arts/Tools/Active Directory/Bloodhound/Cypher Queries.md",
+    "Dark Arts/Tools/Active Directory/Bloodhound/Ingestors/SharpHound.md",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Windows",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Linux",
+    "Dark Arts/Tools/Active Directory/Windows",
+    "Dark Arts/Tools/Active Directory/Linux",
+    "Screenshots",
+    "Screenshots/Pasted image 20240607090602.png",
+    "Dark Arts/Tools/Active Directory/Bloodhound/Ingestors",
+    "Dark Arts/Tools/Active Directory/Bloodhound"
+  ]
+}
