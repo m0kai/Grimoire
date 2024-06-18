@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mitigations/Web App/XSS.md",
+                "file": "Rice/Get Nvidia working.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59cd9840e69e25b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark Arts/Tools/mimikatz.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "fbf21b423a1ec729",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitigations/Web App/XSS.md",
+                "file": "Rice/Get Nvidia working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mitigations/Web App/XSS.md",
+                "file": "Rice/Get Nvidia working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mitigations/Web App/XSS.md"
+                "file": "Rice/Get Nvidia working.md"
               }
             }
           }
@@ -146,27 +158,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbfe8eb6b020b56a",
+  "active": "e9b64c0f59b73062",
   "lastOpenFiles": [
-    "Mitigations/Web App",
-    "Mitigations/Active Directory",
-    "Encoding/HTML.md",
-    "Mitigations/Web App/XSS.md",
-    "Web App/XSS.md",
-    "Encoding",
-    "Tools/Active Directory/crackmapexec.md",
-    "Web App/XSS",
-    "Active Directory/Attacks/Password Spray.md",
-    "Active Directory/Attacks/LLMNR, NBT-NS, & MDNS Poisoning.md",
-    "Tools/Active Directory/kerbrute.md",
-    "Tools/Active Directory/rpcclient.md",
-    "Active Directory/Enumeration/Username Enumeration.md",
-    "Tools/Active Directory/windapsearch.md",
-    "Tools/Active Directory/ldapsearch.md",
-    "Web App/APIs/Enum endpoints.md",
-    "Web App/APIs/Enum Docs.md",
-    "README.md",
-    "Web App/APIs",
-    "Web App"
+    "Laptop/Watchlist.md",
+    "Rice/Get Nvidia working.md",
+    "Dark Arts/Active Directory/Attacks/DCSync Attack.md",
+    "Dark Arts/Tools/mimikatz.md",
+    "Dark Arts/Tools/Active Directory/Windows/PowerShell.md",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Windows/User Enum.md",
+    "Dark Arts/Tools/Active Directory/Windows/PowerView (depricated).md",
+    "Dark Arts/Active Directory/Attacks/Kerberoasting.md",
+    "Dark Arts/Tools/Active Directory/Windows/Rubeus.md",
+    "Dark Arts/Active Directory/Attacks/Abuse ACLs.md",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Windows/ACLs.md",
+    "Dark Arts/Mitigations/Active Directory/Kerberoasting.md",
+    "Laptop",
+    "Dark Arts/Tools/Passwords/Hashcat.md",
+    "Dark Arts/Tools/Active Directory/Impacket/GetUserSPNs.md",
+    "Dark Arts/Tools/Active Directory/Impacket/Install Toolkit.md",
+    "Dark Arts/Tools/Windows Builtin/Dsquery.md",
+    "Dark Arts/Active Directory/Enumeration/Living off the Land/Domain Enum.md",
+    "Dark Arts/Tools/Windows Builtin/Net.md",
+    "Dark Arts/Active Directory/Enumeration/Living off the Land/Host Enumeration (Windows).md",
+    "Dark Arts/Tools/Windows Builtin/Windows Management Instrumentation (WMI).md",
+    "Dark Arts/Tools/Windows Builtin",
+    "Dark Arts/Tools/Windows Builtin/PowerShell.md",
+    "Dark Arts/Active Directory/Enumeration/Living off the Land/Network Enumeration (Windows).md",
+    "Dark Arts/Active Directory/Enumeration/Living off the Land",
+    "Dark Arts/Tools/nmap.md",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Linux/Get non-standard shell.md",
+    "Dark Arts/Tools/Active Directory/Bloodhound/Cypher Queries.md",
+    "Dark Arts/Tools/Active Directory/Bloodhound/Ingestors/SharpHound.md",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Windows",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Linux",
+    "Dark Arts/Tools/Active Directory/Windows",
+    "Dark Arts/Tools/Active Directory/Linux",
+    "Screenshots",
+    "Screenshots/Pasted image 20240607090602.png",
+    "Dark Arts/Tools/Active Directory/Bloodhound/Ingestors",
+    "Dark Arts/Tools/Active Directory/Bloodhound"
   ]
 }
