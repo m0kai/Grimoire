@@ -5,7 +5,7 @@ You get a user's password and are able to get a shell on it via [[Evil-WinRM]] o
 ### Workarounds
 [Resource](https://posts.slayerlabs.com/double-hop/)
 Since the password isn't cached, but you do know it, then you just need to bundle the password with your new request/query explicitly. 
-#### winrm/powerview
+#### Explicitly include credentials with each command
 This situation is basically if you are connected to the host via winrm and are trying to load in PowerView but get the following error:
 ```powershell
 *Evil-WinRM* PS C:\Users\backupadm\Documents> get-domainuser -spn
@@ -29,4 +29,21 @@ $Cred = New-Object System.Management.Automation.PSCredential('INLANEFREIGHT\back
 
 # pass to PowerView
 get-domainuser -spn -credential $Cred | select samaccountname
+```
+#### Add credentials to PSsession config
+1. Register your credentials with PSSession Configuration
+2. Restart WinRM service
+3. Reconnect to host
+```powershell
+# Step 1:
+# Setup config, note the name you give it, you will provide this later
+Register-PSSessionConfiguration -Name backupadmsess -RunAsCredential inlanefreight\backupadm
+
+# Step 2: 
+# Restart service, emember you will be kicked off
+Restart-Service WinRM
+
+# Step 3:
+# connect back, notice we connect and specify which configuration we want, which should match what config you set it to above
+Enter-PSSession -ComputerName DEV01 -Credential INLANEFREIGHT\backupadm -ConfigurationName  backupadmsess
 ```
