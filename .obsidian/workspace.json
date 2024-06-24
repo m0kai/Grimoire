@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md",
+                "file": "Rice/Fix browser flicker.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md",
+                "file": "Rice/Fix browser flicker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md",
+                "file": "Rice/Fix browser flicker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md"
+                "file": "Rice/Fix browser flicker.md"
               }
             }
           }
@@ -160,8 +160,14 @@
   },
   "active": "e9b64c0f59b73062",
   "lastOpenFiles": [
-    "Dark Arts/Active Directory/Enumeration/Remote Access (Get a Shell)/SQL Server Admin.md",
+    "Dark Arts/Privesc/Linux/SUID.md",
+    "Rice/Fix browser flicker.md",
+    "Dark Arts/Privesc/Linux",
+    "Dark Arts/Tools/Home.md",
+    "Dark Arts/Tools/Active Directory/Cheatsheets.md",
+    "Dark Arts/Privesc/Linux/Linux.md",
     "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md",
+    "Dark Arts/Active Directory/Enumeration/Remote Access (Get a Shell)/SQL Server Admin.md",
     "Dark Arts/Active Directory/Overcoming Problems",
     "Dark Arts/Tools/Active Directory/Impacket/mssqlclient.md",
     "Dark Arts/Tools/Active Directory/Windows/PowerUpSQL.md",
@@ -184,18 +190,12 @@
     "Dark Arts/Tools/Active Directory/Windows/Rubeus.md",
     "Dark Arts/Active Directory/Attacks/Abuse ACLs.md",
     "Dark Arts/Active Directory/Enumeration/Authenticated/Windows/ACLs.md",
-    "Dark Arts/Mitigations/Active Directory/Kerberoasting.md",
     "Laptop",
-    "Dark Arts/Tools/Passwords/Hashcat.md",
-    "Dark Arts/Tools/Active Directory/Impacket/GetUserSPNs.md",
-    "Dark Arts/Tools/Active Directory/Impacket/Install Toolkit.md",
-    "Dark Arts/Tools/Windows Builtin/Dsquery.md",
     "Dark Arts/Tools/Windows Builtin",
     "Dark Arts/Active Directory/Enumeration/Living off the Land",
     "Dark Arts/Active Directory/Enumeration/Authenticated/Windows",
     "Dark Arts/Active Directory/Enumeration/Authenticated/Linux",
     "Dark Arts/Tools/Active Directory/Windows",
-    "Dark Arts/Tools/Active Directory/Linux",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }
