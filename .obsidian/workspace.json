@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rice/Get Nvidia working.md",
+                "file": "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Tools/mimikatz.md",
+                "file": "Dark Arts/Tools/Active Directory/Impacket/mssqlclient.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 318.5
   },
   "right": {
     "id": "fbf21b423a1ec729",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rice/Get Nvidia working.md",
+                "file": "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rice/Get Nvidia working.md",
+                "file": "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rice/Get Nvidia working.md"
+                "file": "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md"
               }
             }
           }
@@ -160,13 +160,26 @@
   },
   "active": "e9b64c0f59b73062",
   "lastOpenFiles": [
-    "Laptop/Watchlist.md",
-    "Rice/Get Nvidia working.md",
-    "Dark Arts/Active Directory/Attacks/DCSync Attack.md",
-    "Dark Arts/Tools/mimikatz.md",
+    "Dark Arts/Active Directory/Enumeration/Remote Access (Get a Shell)/SQL Server Admin.md",
+    "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md",
+    "Dark Arts/Active Directory/Overcoming Problems",
+    "Dark Arts/Tools/Active Directory/Impacket/mssqlclient.md",
+    "Dark Arts/Tools/Active Directory/Windows/PowerUpSQL.md",
+    "Dark Arts/Tools/Active Directory/Bloodhound/Cypher Queries.md",
+    "Dark Arts/Active Directory/Enumeration/Remote Access (Get a Shell)/RDP Acess.md",
+    "Dark Arts/Active Directory/Enumeration/Remote Access (Get a Shell)/WinRM Access.md",
+    "Dark Arts/Active Directory/Enumeration/Remote Access (Get a shell).md",
+    "Dark Arts/Active Directory/Enumeration/Remote Access (Get a Shell)",
+    "Dark Arts/Tools/Active Directory/Windows/Evil-WinRM.md",
     "Dark Arts/Tools/Active Directory/Windows/PowerShell.md",
-    "Dark Arts/Active Directory/Enumeration/Authenticated/Windows/User Enum.md",
     "Dark Arts/Tools/Active Directory/Windows/PowerView (depricated).md",
+    "Dark Arts/Tools/mimikatz.md",
+    "Dark Arts/Active Directory/Lateral Movement",
+    "Dark Arts/Active Directory/Untitled.md",
+    "Rice/Get Nvidia working.md",
+    "Laptop/Watchlist.md",
+    "Dark Arts/Active Directory/Attacks/DCSync Attack.md",
+    "Dark Arts/Active Directory/Enumeration/Authenticated/Windows/User Enum.md",
     "Dark Arts/Active Directory/Attacks/Kerberoasting.md",
     "Dark Arts/Tools/Active Directory/Windows/Rubeus.md",
     "Dark Arts/Active Directory/Attacks/Abuse ACLs.md",
@@ -177,25 +190,12 @@
     "Dark Arts/Tools/Active Directory/Impacket/GetUserSPNs.md",
     "Dark Arts/Tools/Active Directory/Impacket/Install Toolkit.md",
     "Dark Arts/Tools/Windows Builtin/Dsquery.md",
-    "Dark Arts/Active Directory/Enumeration/Living off the Land/Domain Enum.md",
-    "Dark Arts/Tools/Windows Builtin/Net.md",
-    "Dark Arts/Active Directory/Enumeration/Living off the Land/Host Enumeration (Windows).md",
-    "Dark Arts/Tools/Windows Builtin/Windows Management Instrumentation (WMI).md",
     "Dark Arts/Tools/Windows Builtin",
-    "Dark Arts/Tools/Windows Builtin/PowerShell.md",
-    "Dark Arts/Active Directory/Enumeration/Living off the Land/Network Enumeration (Windows).md",
     "Dark Arts/Active Directory/Enumeration/Living off the Land",
-    "Dark Arts/Tools/nmap.md",
-    "Dark Arts/Active Directory/Enumeration/Authenticated/Linux/Get non-standard shell.md",
-    "Dark Arts/Tools/Active Directory/Bloodhound/Cypher Queries.md",
-    "Dark Arts/Tools/Active Directory/Bloodhound/Ingestors/SharpHound.md",
     "Dark Arts/Active Directory/Enumeration/Authenticated/Windows",
     "Dark Arts/Active Directory/Enumeration/Authenticated/Linux",
     "Dark Arts/Tools/Active Directory/Windows",
     "Dark Arts/Tools/Active Directory/Linux",
-    "Screenshots",
-    "Screenshots/Pasted image 20240607090602.png",
-    "Dark Arts/Tools/Active Directory/Bloodhound/Ingestors",
-    "Dark Arts/Tools/Active Directory/Bloodhound"
+    "Screenshots/Pasted image 20240607090602.png"
   ]
 }

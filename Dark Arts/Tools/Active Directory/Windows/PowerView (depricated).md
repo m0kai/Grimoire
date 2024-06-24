@@ -188,3 +188,19 @@ Set-DomainObject -Credential $Cred -Identity <user> -SET @{serviceprincipalname=
 ```
 
 ^ec631e
+
+#### Enumerate Remote Desktop Users Group
+```powershell
+Get-NetLocalGroupMember -ComputerName <hostname> -GroupName "Remote Desktop Users"
+Get-NetLocalGroupMember -ComputerName ACADEMY-EA-MS01 -GroupName "Remote Desktop Users"
+```
+
+^75452d
+
+#### Enumerate Remote Management Users Group
+```powershell
+Get-NetLocalGroupMemeber -computerName <hostname> -GroupName "Remote Management Users"
+Get-NetLocalGroupMember -ComputerName ACADEMY-EA-MS01 -GroupName "Remote Management Users"
+```
+
+^7a386e
