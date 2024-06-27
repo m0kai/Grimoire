@@ -204,3 +204,18 @@ Get-NetLocalGroupMember -ComputerName ACADEMY-EA-MS01 -GroupName "Remote Managem
 ```
 
 ^7a386e
+
+#### Find passwords in description field of user account
+```powershell
+Get-DomainUser * | Select-Object samaccountname,description | Where-Object {$_.Description -ne $null}
+```
+
+^ebee80
+
+#### Check if password is required on account
+```powershell
+# If this field is set for an account, it means the password length set by the password policy can be ignored by this account and the password may not even be set.
+Get-DomainUser -UACFilter PASSWD_NOTREQD | Select-Object samaccountname,useraccountcontrol
+```
+
+^ecd495
