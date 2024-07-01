@@ -12,6 +12,9 @@ git clone https://github.com/fortra/impacket
 cd impacket
 sudo python3 -m pip install .
 ```
+
+^9ea391
+
 Alternatively:
 ```
 python3 -m pipx install impacket
