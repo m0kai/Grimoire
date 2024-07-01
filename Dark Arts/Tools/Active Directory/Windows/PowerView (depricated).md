@@ -219,3 +219,11 @@ Get-DomainUser -UACFilter PASSWD_NOTREQD | Select-Object samaccountname,useracco
 ```
 
 ^ecd495
+
+#### Enumerate DONT_REQ_PREAUTH value
+[[ASREPRoasting]]
+```powershell
+Get-DomainUser -PreauthNotRequired | select samaccountname,userprincipalname,useraccountcontrol | fl
+```
+
+^196ccc

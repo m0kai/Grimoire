@@ -16,3 +16,11 @@ hashcat -m 13100 sqldev_tgs /usr/share/wordlists/rockyou.txt
 ``` 
 
 ^88073c
+
+##### ASREPRoasting
+[[ASREPRoasting]]
+```bash
+hashcat -m 18200 hash /usr/share/wordlists/rockyou.txt
+```
+
+^364f87

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Active Directory/Enumeration/Password Hunting/Group Policy Preferences (GPP).md",
+                "file": "Dark Arts/Active Directory/Attacks/ASREPRoasting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af90dfa46a0451bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark Arts/Tools/Active Directory/Impacket/GetNPUsers.py.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Active Directory/Enumeration/Password Hunting/Group Policy Preferences (GPP).md",
+                "file": "Dark Arts/Active Directory/Attacks/ASREPRoasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Active Directory/Enumeration/Password Hunting/Group Policy Preferences (GPP).md",
+                "file": "Dark Arts/Active Directory/Attacks/ASREPRoasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Active Directory/Enumeration/Password Hunting/Group Policy Preferences (GPP).md"
+                "file": "Dark Arts/Active Directory/Attacks/ASREPRoasting.md"
               }
             }
           }
@@ -148,11 +160,17 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
-    "Dark Arts/Tools/Active Directory/Linux/crackmapexec.md",
+    "Dark Arts/Tools/Active Directory/Impacket/GetNPUsers.py.md",
+    "Dark Arts/Tools/Active Directory/Impacket/GetUserSPNs.md",
+    "Dark Arts/Tools/Active Directory/Linux/kerbrute.md",
+    "Dark Arts/Active Directory/Attacks/ASREPRoasting.md",
+    "Dark Arts/Tools/Passwords/Hashcat.md",
+    "Dark Arts/Tools/Active Directory/Windows/Rubeus.md",
+    "Dark Arts/Tools/Active Directory/Windows/PowerView (depricated).md",
     "Dark Arts/Active Directory/Enumeration/Password Hunting/Group Policy Preferences (GPP).md",
+    "Dark Arts/Tools/Active Directory/Linux/crackmapexec.md",
     "Rice/Quick Reference.md",
     "Dark Arts/A Page.md",
-    "Dark Arts/Tools/Active Directory/Windows/PowerView (depricated).md",
     "Dark Arts/Active Directory/Untitled.md",
     "Dark Arts/Privesc/Linux/Breakout of restricted shell.md",
     "Dark Arts/Privesc/Linux/SUID.md",
@@ -170,13 +188,7 @@
     "Dark Arts/Tools/Active Directory/Impacket/Amenu.md",
     "Rice/Fix browser flicker.md",
     "Dark Arts/Privesc/Linux",
-    "Dark Arts/Tools/Home.md",
-    "Dark Arts/Tools/Active Directory/Cheatsheets.md",
-    "Dark Arts/Privesc/Linux/Linux.md",
-    "Dark Arts/Active Directory/Overcoming Problems/Kerberos Double Hop Problem.md",
-    "Dark Arts/Active Directory/Enumeration/Remote Access (Get a Shell)/SQL Server Admin.md",
     "Dark Arts/Active Directory/Overcoming Problems",
-    "Dark Arts/Tools/Active Directory/Windows/PowerUpSQL.md",
     "Dark Arts/Active Directory/Enumeration/Remote Access (Get a Shell)",
     "Dark Arts/Active Directory/Lateral Movement",
     "Laptop",

@@ -44,3 +44,12 @@ kerbrute passwordspray -d inlanefreight.local --dc 172.16.5.5 valid_users.txt  W
 ```
 
 ^ab0bcd
+
+#### ASREPRoasting
+[[ASREPRoasting]]
+```bash
+kerbrute userenum -d <domain> --dc <dc ip> <userlist>
+kerbrute userenum -d inlanefreight.local --dc 172.16.5.5 /opt/jsmith.txt 
+```
+
+^38353d
