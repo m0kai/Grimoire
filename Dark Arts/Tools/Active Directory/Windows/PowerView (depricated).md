@@ -227,3 +227,32 @@ Get-DomainUser -PreauthNotRequired | select samaccountname,userprincipalname,use
 ```
 
 ^196ccc
+
+#### Enumerate GPO Names
+```powershell
+Get-DomainGPO | select displayname
+```
+
+^ad0a90
+
+#### Enumerate Domain User GPO rights
+```powershell
+$sid=Convert-NameToSid "Domain Users"
+Get-DomainGPO | Get-ObjectAcl | ?{$_.SecurityIdentifier -eq $sid}
+```
+
+^a2d830
+
+#### Enumerate Trust Relationships
+```powershell
+# Trust relationships overall
+Get-DomainTrust
+Get-DomainTrustMapping
+
+# Enum all users in child domain
+# in this example, LOGISTICS.INLANEFREIGHT.LOCAL is a child domain to our current domain.
+Get-DomainUser -Domain <child domain> | select SamAccountName
+Get-DomainUser -Domain LOGISTICS.INLANEFREIGHT.LOCAL | select SamAccountName
+```
+
+^1dbcfb

@@ -84,3 +84,39 @@ $password = ConvertTo-SecureString "Klmcargo2" -AsPlainText -Force
 $cred = new-object System.Management.Automation.PSCredential ("INLANEFREIGHT\forend", $password)
 Enter-PSSession -ComputerName ACADEMY-EA-MS01 -Credential $cred
 ```
+
+#### Enumerate GPO Names w/ builtin cmdlet
+```powershell
+Get-GPO -All | Select DisplayName
+```
+
+^a53af2
+
+#### Convert GPO GUID into a name
+```powershell
+Get-GPO -Guid <GUID>
+Get-GPO -Guid 7CA9C789-14CE-46E3-A722-83F4097AF532
+```
+
+^997a51
+
+#### Enum Trust Relationships
+```powershell
+Import-Module activedirectory
+Get-ADTrust -Filter *
+
+# technically cmd.exe, but putting it here
+netdom query /:domain:<domain> trust
+netdom query /domain:inlanefreight.local trust
+
+# query domain controllers
+netdom query /domain:<domain> dc
+netdom query /domain:inlanefreight.local dc
+
+# query servers
+netdom query /domain:<domain> workstation
+netdom query /domain:inlanefreight.local workstation
+```
+
+^b6506a
+
