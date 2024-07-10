@@ -60,3 +60,6 @@ lsadump::dcsync /user:INLANEFREIGHT\lab_adm
 ```
 
 ## Linux
+#### Get KRBTGT NTLM hash of Child-Domain
+Perform a DCSync attack on the child domain to dump the NTLM hash of the KRBTGT of the child-domain.
+![[secretsdump#^c004aa]]

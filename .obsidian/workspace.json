@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rice/Quick Reference.md",
+                "file": "Rice/Virtual Box.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Active Directory/Attacks/Golden Ticket Attack.md",
+                "file": "Dark Arts/Tools/Active Directory/Impacket/secretsdump.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rice/Quick Reference.md",
+                "file": "Rice/Virtual Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rice/Quick Reference.md",
+                "file": "Rice/Virtual Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rice/Quick Reference.md"
+                "file": "Rice/Virtual Box.md"
               }
             }
           }
@@ -160,34 +160,34 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
+    "Rice/Set Cursor Theme.md",
+    "Rice/Quick Reference.md",
+    "Rice/Get Nvidia working.md",
+    "Rice/Fix browser flicker.md",
+    "Rice/Virtual Box.md",
+    "Dark Arts/Active Directory/Enumeration/Username Enumeration (unauth).md",
+    "Dark Arts/Active Directory/Enumeration/Password Hunting/SYSVOL Scripts.md",
+    "Dark Arts/Active Directory/Enumeration/Password Hunting/Password Policy.md",
+    "Dark Arts/Active Directory/Enumeration/Password Hunting/Password not required.md",
+    "Dark Arts/Active Directory/Enumeration/Group Policy Objects.md",
+    "Dark Arts/Active Directory/Enumeration/Passive Host Discovery.md",
+    "Dark Arts/Active Directory/Enumeration/Enumeration TTPs.md",
+    "Dark Arts/Practice - AD.md",
     "Dark Arts/Active Directory/Attacks/Trust Attacks/ExtraSids (Trust).md",
-    "Dark Arts/Active Directory/Attacks/DCSync Attack.md",
+    "Dark Arts/Tools/Active Directory/Impacket/secretsdump.md",
     "Dark Arts/Active Directory/Attacks/Golden Ticket Attack.md",
+    "Dark Arts/Active Directory/Attacks/DCSync Attack.md",
     "Dark Arts/Tools/Active Directory/Windows/PowerShell.md",
     "Dark Arts/Active Directory/Attacks/Trust Attacks",
     "Dark Arts/Active Directory/Enumeration/Trust Relationships.md",
     "Dark Arts/Tools/Active Directory/Windows/PowerView (depricated).md",
     "Dark Arts/Privesc/Linux/SUID.md",
-    "Dark Arts/Active Directory/Enumeration/Group Policy Objects.md",
     "Dark Arts/Active Directory/Attacks/ASREPRoasting.md",
     "Dark Arts/Tools/Active Directory/Impacket/GetNPUsers.py.md",
     "Dark Arts/Tools/Active Directory/Impacket/GetUserSPNs.md",
     "Dark Arts/Tools/Active Directory/Linux/kerbrute.md",
     "Dark Arts/Tools/Passwords/Hashcat.md",
-    "Dark Arts/Tools/Active Directory/Windows/Rubeus.md",
-    "Dark Arts/Active Directory/Enumeration/Password Hunting/Group Policy Preferences (GPP).md",
-    "Dark Arts/Tools/Active Directory/Linux/crackmapexec.md",
-    "Rice/Quick Reference.md",
-    "Dark Arts/A Page.md",
-    "Dark Arts/Active Directory/Untitled.md",
-    "Dark Arts/Privesc/Linux/Breakout of restricted shell.md",
-    "Dark Arts/Active Directory/Enumeration/Password Hunting/SYSVOL Scripts.md",
-    "Dark Arts/Active Directory/Enumeration/Password Hunting/Password not required.md",
     "Dark Arts/Active Directory/Enumeration/Password Hunting",
-    "Dark Arts/Active Directory/Enumeration/Password Hunting/Passwords in descriptions.md",
-    "Dark Arts/Tools/Active Directory/Impacket/mssqlclient.md",
-    "Dark Arts/Web App/XSS.md",
-    "Dark Arts/Web App/APIs/Enum endpoints.md",
     "Dark Arts/Privesc/Linux",
     "Dark Arts/Active Directory/Overcoming Problems",
     "Dark Arts/Active Directory/Enumeration/Remote Access (Get a Shell)",
