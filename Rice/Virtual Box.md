@@ -18,7 +18,7 @@ virtualbox-host-modules-arch
 This is required when using a window manager rather than a desktop environment. Required for #hyprland but I saw in the forums that it was required for #i3wm as well, so seems like its a problem with any window manage on any compositor bc Oracle had to be a special snowflake. 
 On the main menu, click on your VM:
 `Settings` -> `User Interface` -> `Mini Toolbar` -> Deselect:  `Show in Full-screen/Seamless`
-*Note: the VM's OS also does not matter, I had to do this on a Windows VM to get it to work as well *
+*Note: the VM's OS also does not matter, I had to do this on a Windows VM to get it to work as well*
 ## Guest Additions
 Mostly to get full screen working. Required for Hyprland, but it's likely required for any WM/Desktop environment on arch.
 #### Kali Linux VM
@@ -30,3 +30,5 @@ sudo apt upgrade
 sudo apt install -y --reinstall virtualbox-guest-x11
 sudo reboot -f
 ```
+#### Everything
+You can download the Guest Additions ISO from [here](https://download.virtualbox.org/virtualbox/). You will need to see what version you are running and pick the same version from the linked page. Download and attach as an optical disk under `Settings` -> `Storage` -> `Add Optical Disk`. Then you should see it in your file system. 
