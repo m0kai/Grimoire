@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rice/Virtual Box.md",
+                "file": "Rice/Get Nvidia working.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rice/Virtual Box.md",
+                "file": "Rice/Get Nvidia working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rice/Virtual Box.md",
+                "file": "Rice/Get Nvidia working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rice/Virtual Box.md"
+                "file": "Rice/Get Nvidia working.md"
               }
             }
           }
@@ -160,11 +160,12 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
+    "Rice/Fonts.md",
+    "Rice/Fix browser flicker.md",
+    "Rice/Virtual Box.md",
     "Rice/Set Cursor Theme.md",
     "Rice/Quick Reference.md",
     "Rice/Get Nvidia working.md",
-    "Rice/Fix browser flicker.md",
-    "Rice/Virtual Box.md",
     "Dark Arts/Active Directory/Enumeration/Username Enumeration (unauth).md",
     "Dark Arts/Active Directory/Enumeration/Password Hunting/SYSVOL Scripts.md",
     "Dark Arts/Active Directory/Enumeration/Password Hunting/Password Policy.md",
@@ -186,7 +187,6 @@
     "Dark Arts/Tools/Active Directory/Impacket/GetNPUsers.py.md",
     "Dark Arts/Tools/Active Directory/Impacket/GetUserSPNs.md",
     "Dark Arts/Tools/Active Directory/Linux/kerbrute.md",
-    "Dark Arts/Tools/Passwords/Hashcat.md",
     "Dark Arts/Active Directory/Enumeration/Password Hunting",
     "Dark Arts/Privesc/Linux",
     "Dark Arts/Active Directory/Overcoming Problems",
