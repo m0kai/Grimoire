@@ -1,0 +1,14 @@
+-- -
+Hard to completely prevent, but in true cyber fashion, you can make it much more annoying/difficult for the attacker.
+- Limit account reuse
+	- Avoid re-using local admin password
+	- Disable (default) Guest and Administrator accounts
+	- Limit who is a local admin (least privilege)
+- Utilize strong passwords
+	- The longer the better (>14 characters)
+	- Avoid using common words
+	- Long sentences, phrases, book passages, etc
+- Privilege Access Management (PAM)
+	- Check out/in sensitive accounts when needed
+	- Automatically rotate passwords on check out and check in
+	- Limits pass attacks as hash/password is strong and constantly rotated.

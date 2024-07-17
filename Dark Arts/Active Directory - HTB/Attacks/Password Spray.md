@@ -14,8 +14,8 @@ Try to log into multiple accounts with one password, so roll through a wordlist 
 #### crackmapexec
 ###### Domain-level Password spray
 This will password spray AD accounts
-![[crackmapexec#^4d0ec2]]
+![[Dark Arts/Tools/Active Directory/Linux/crackmapexec#^4d0ec2]]
 ###### Local Password Spray
 This will password spray for local accounts on the systems in the IP range specified
-![[crackmapexec#^cc2b19]]
+![[Dark Arts/Tools/Active Directory/Linux/crackmapexec#^cc2b19]]
 ### From Windows

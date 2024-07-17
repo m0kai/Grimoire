@@ -11,7 +11,7 @@ For instructions on compiling the binary from source, check the tool notes page 
 #### rpcclient
 ![[rpcclient#^0efe93]]
 #### crackmapexec
-![[crackmapexec#^99029f]]
+![[Dark Arts/Tools/Active Directory/Linux/crackmapexec#^99029f]]
 #### ldapsearch
 ![[ldapsearch#^351fbd]]
 #### windapsearch

@@ -5,10 +5,17 @@ Password hash cracking software. You can search for the most updated list of mod
 # NTLMv2 mode: 5600
 hashcat -m <mode> <hash file> <wordlist> 
 hashcat -m 5600 forend_ntlmv2 /usr/share/wordlists/rockyou.txt 
+
+# Optimized i.e. faster on metal
+hashcat -m 5600 hash /usr/share/wordlist/rockyou.txt -O
+
+# using a good ruleset to permutate you guesses
+# One Rule to rule them all
+hashcat -m 5600 hash /usr/share/wordlist/rockyou.txt -r OneRule
 ```
 ### Specific Targeted Cracking
 ##### kerberoasting
-[[Dark Arts/Active Directory/Attacks/Kerberoasting|Get TGS Ticket]]
+[[Dark Arts/Active Directory - HTB/Attacks/Kerberoasting|Get TGS Ticket]]
 ```bash
 # crack NTLM password from TGS Ticket Hash
 hashcat -m 13100 <hash file> <wordlist>

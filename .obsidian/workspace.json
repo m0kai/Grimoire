@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rice/Get Nvidia working.md",
+                "file": "Dark Arts/Active Directory/Post Breach/AAA - Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Tools/Active Directory/Impacket/secretsdump.md",
+                "file": "Dark Arts/Active Directory/Post Breach/Tools/Hashcat.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 253.5
   },
   "right": {
     "id": "fbf21b423a1ec729",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rice/Get Nvidia working.md",
+                "file": "Dark Arts/Active Directory/Post Breach/AAA - Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rice/Get Nvidia working.md",
+                "file": "Dark Arts/Active Directory/Post Breach/AAA - Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rice/Get Nvidia working.md"
+                "file": "Dark Arts/Active Directory/Post Breach/AAA - Homepage.md"
               }
             }
           }
@@ -160,42 +160,42 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
-    "Rice/Fonts.md",
-    "Rice/Fix browser flicker.md",
-    "Rice/Virtual Box.md",
-    "Rice/Set Cursor Theme.md",
-    "Rice/Quick Reference.md",
-    "Rice/Get Nvidia working.md",
-    "Dark Arts/Active Directory/Enumeration/Username Enumeration (unauth).md",
-    "Dark Arts/Active Directory/Enumeration/Password Hunting/SYSVOL Scripts.md",
-    "Dark Arts/Active Directory/Enumeration/Password Hunting/Password Policy.md",
-    "Dark Arts/Active Directory/Enumeration/Password Hunting/Password not required.md",
-    "Dark Arts/Active Directory/Enumeration/Group Policy Objects.md",
-    "Dark Arts/Active Directory/Enumeration/Passive Host Discovery.md",
-    "Dark Arts/Active Directory/Enumeration/Enumeration TTPs.md",
-    "Dark Arts/Practice - AD.md",
-    "Dark Arts/Active Directory/Attacks/Trust Attacks/ExtraSids (Trust).md",
-    "Dark Arts/Tools/Active Directory/Impacket/secretsdump.md",
-    "Dark Arts/Active Directory/Attacks/Golden Ticket Attack.md",
-    "Dark Arts/Active Directory/Attacks/DCSync Attack.md",
-    "Dark Arts/Tools/Active Directory/Windows/PowerShell.md",
-    "Dark Arts/Active Directory/Attacks/Trust Attacks",
-    "Dark Arts/Active Directory/Enumeration/Trust Relationships.md",
-    "Dark Arts/Tools/Active Directory/Windows/PowerView (depricated).md",
-    "Dark Arts/Privesc/Linux/SUID.md",
-    "Dark Arts/Active Directory/Attacks/ASREPRoasting.md",
-    "Dark Arts/Tools/Active Directory/Impacket/GetNPUsers.py.md",
-    "Dark Arts/Tools/Active Directory/Impacket/GetUserSPNs.md",
-    "Dark Arts/Tools/Active Directory/Linux/kerbrute.md",
-    "Dark Arts/Active Directory/Enumeration/Password Hunting",
-    "Dark Arts/Privesc/Linux",
-    "Dark Arts/Active Directory/Overcoming Problems",
-    "Dark Arts/Active Directory/Enumeration/Remote Access (Get a Shell)",
-    "Dark Arts/Active Directory/Lateral Movement",
-    "Laptop",
-    "Dark Arts/Tools/Windows Builtin",
-    "Dark Arts/Active Directory/Enumeration/Living off the Land",
-    "Dark Arts/Active Directory/Enumeration/Authenticated/Windows",
+    "Dark Arts/Active Directory/Post Breach/Attacks/Kerberoasting.md",
+    "Dark Arts/Mitigations/Active Directory/Kerberoasting.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Hashcat.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Attacks/secretsdump.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Attacks/GetUserSPNs.md",
+    "Dark Arts/Mitigations/Active Directory/Pass Attacks.md",
+    "Dark Arts/Active Directory/Post Breach/Attacks/Pass Attacks.md",
+    "Dark Arts/Active Directory/Mitigations",
+    "Dark Arts/Active Directory/Initial Breach/LLMNR Poisoning.md",
+    "Dark Arts/Active Directory/Post Breach/AAA - Homepage.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Attacks/crackmapexec.md",
+    "Dark Arts/Active Directory",
+    "Dark Arts/Tools/Active Directory/Linux/Responder.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Attacks",
+    "Dark Arts/Active Directory/Post Breach/Enumeration.md",
+    "Dark Arts/Active Directory/Post Breach/Attacks",
+    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/Ping Castle.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/Bloodhound.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/ldapdomaindump.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration",
+    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/Plumhound.md",
+    "Dark Arts/Tools/Active Directory/Bloodhound/Ingestors/bloodhound.py.md",
+    "Dark Arts/Tools/Active Directory/Bloodhound/Ingestors/SharpHound.md",
+    "Dark Arts/Active Directory/Initial Breach/AAA - Home.md",
+    "Dark Arts/Active Directory/Post Breach/Tools",
+    "Dark Arts/Active Directory/Initial Breach/IPv6 DNS Takeover.md",
+    "Dark Arts/Active Directory/Post Breach",
+    "Dark Arts/Active Directory/Initial Breach/SMB Relay.md",
+    "Dark Arts/Tools/Host Discovery/fping.md",
+    "Dark Arts/Active Directory/Initial Breach/Passback Attack.md",
+    "Dark Arts/Tools/Active Directory/Impacket/psexec.md",
+    "Dark Arts/Active Directory/Initial Breach/TTPs.md",
+    "Dark Arts/Mitigations/Active Directory/IPv6 DNS Takeover.md",
+    "Dark Arts/Active Directory/Initial Breach",
+    "Dark Arts/Active Directory - HTB/Attacks/Trust Attacks",
+    "Dark Arts/Active Directory - HTB/Enumeration/Password Hunting",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }

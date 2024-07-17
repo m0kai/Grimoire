@@ -14,6 +14,6 @@ gpp-decrypt VPe/o9YRyz2cksnYRbNeQj35w9KxQ5ttbvtRaAVqxaE
 ```
 - [Get-GPPPassword.ps1](https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1)
 - GPP Metasploit Post Module
-- [[crackmapexec]]
-	![[crackmapexec#^1d481a]]
+- [[Dark Arts/Tools/Active Directory/Linux/crackmapexec]]
+	![[Dark Arts/Tools/Active Directory/Linux/crackmapexec#^1d481a]]
 	

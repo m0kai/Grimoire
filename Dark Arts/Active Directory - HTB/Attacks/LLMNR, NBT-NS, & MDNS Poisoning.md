@@ -3,7 +3,7 @@ Basically, you setup [[Responder]] and wait for DNS to fail so that a system cal
 
 For mitigation steps, go [[Poisoning Attacks|here]]
 #### From Linux
-![[Responder#^92af1e]]
+![[Responder#^92af1e]] ^3be887
 #### From Windows
 **Inveigh (Depricated)**
 Inveigh written in PowerShell, which no longer has support. 

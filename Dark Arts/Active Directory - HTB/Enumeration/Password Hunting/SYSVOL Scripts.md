@@ -37,4 +37,4 @@ Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
 ```
 
 Then feed the sUser and sPwd values to crackmapexec
-![[crackmapexec#^d499fd]]
+![[Dark Arts/Tools/Active Directory/Linux/crackmapexec#^d499fd]]

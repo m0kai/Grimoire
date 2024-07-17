@@ -14,6 +14,7 @@ sudo responder -I <interface> -A
 ```bash
 # note that sudo is required to access the standard ports used by Responder to poison requests. 
 sudo responder -I ens224 
+sudo responder -I -dwv # adds HTTP proxy to what is listening 
 ```
 
 ^92af1e

@@ -17,10 +17,10 @@ You can find the original talk that displayed this prominent vector to the world
 2. The IP/hostname of a DC we can query.
 ## Linux
 ### Impacket
-[[GetUserSPNs]]
-![[GetUserSPNs#^d1421f]]
-[[Hashcat]]
-![[Hashcat#^88073c]]
+[[Dark Arts/Tools/Active Directory/Impacket/GetUserSPNs]]
+![[Dark Arts/Tools/Active Directory/Impacket/GetUserSPNs#^d1421f]]
+[[Dark Arts/Tools/Passwords/Hashcat]]
+![[Dark Arts/Tools/Passwords/Hashcat#^88073c]]
 ## Windows
 #### PowerView
 [[PowerView (depricated)|PowerView]]
