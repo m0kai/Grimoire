@@ -1,4 +1,5 @@
 -- -
+This is now called #netexec, you can use these exact same commands, just change `crackmapexec` to `netexec`. 
 ### Interact w/ db
 crackmapexec hosts a database where it keeps all the credentials and what not that you have gathered on an engagement. 
 ```bash

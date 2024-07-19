@@ -28,4 +28,4 @@ Make sure you run this from the perspective of the user with Sync privileges, if
 runas /netonly /user:INLANEFREIGHT\adunn powershell
 ```
 Then run attack:
-![[mimikatz#^21193e]]
+![[Dark Arts/Tools/mimikatz#^21193e]]

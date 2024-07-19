@@ -22,3 +22,12 @@ impersonate_token <user>
 ```
 
 ^c51a79
+
+#### GPP Attack
+```bash
+# will look for the file and cPassword field and decrypt it for you.
+msfconsole
+use auxiliary/smb_enum_gpp
+```
+
+^030f63
