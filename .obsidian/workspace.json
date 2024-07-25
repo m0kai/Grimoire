@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Active Directory/Post Domain Compromise/Golden Ticket.md",
+                "file": "Dark Arts/Privesc/Exploits/Kernel Exploits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Active Directory/Post Domain Compromise/Golden Ticket.md",
+                "file": "Dark Arts/Privesc/Exploits/Kernel Exploits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Active Directory/Post Domain Compromise/Golden Ticket.md",
+                "file": "Dark Arts/Privesc/Exploits/Kernel Exploits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Active Directory/Post Domain Compromise/Golden Ticket.md"
+                "file": "Dark Arts/Privesc/Exploits/Kernel Exploits.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
-    "Dark Arts/Active Directory/Post Domain Compromise/Dump NTDS.dit.md",
-    "Dark Arts/Active Directory/Post Domain Compromise/Golden Ticket.md",
-    "Dark Arts/Active Directory/Post Domain Compromise/~Homepage.md",
-    "Dark Arts/Active Directory/Initial Breach/~Home.md",
-    "Dark Arts/Active Directory/Post Breach/~Homepage.md",
-    "Dark Arts/Active Directory/Post Breach/TTPs.md",
-    "Dark Arts/Active Directory/Post Domain Compromise",
-    "Dark Arts/Active Directory/Post Breach/Enumeration.md",
-    "Dark Arts/Active Directory/Post Breach/Attacks/Dump Credentials.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Attacks/mimikatz.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Attacks/crackmapexec.md",
-    "Dark Arts/Active Directory/Post Breach/Attacks/LNK File Attacks.md",
-    "Dark Arts/Active Directory/Post Breach/Attacks/GPP Attacks.md",
-    "Dark Arts/Active Directory/Post Breach/Attacks/Token Impersonation.md",
-    "Dark Arts/Mitigations/Active Directory/Token Impersonation.md",
-    "Dark Arts/Active Directory/Post Breach/Attacks/Kerberoasting.md",
-    "Dark Arts/Active Directory/Post Breach/Attacks/Pass Attacks.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Hashcat.md",
+    "Dark Arts/Privesc/Exploits/~Home.md",
+    "Dark Arts/Privesc/Exploits/Kernel Exploits.md",
+    "Dark Arts/Privesc/Enumeration/Automation.md",
+    "Dark Arts/Privesc/Exploits",
+    "Dark Arts/File Transfer/Linux.md",
+    "Dark Arts/Privesc/Enumeration/~Home.md",
+    "Dark Arts/File Transfer/~Home.md",
+    "Dark Arts/Privesc/Enumeration/Password Hunting.md",
+    "Dark Arts/Privesc/Password Hunting",
+    "Dark Arts/Privesc/Enumeration/Network.md",
+    "Dark Arts/Privesc/Enumeration/User.md",
+    "Dark Arts/Privesc/Enumeration/System.md",
+    "Dark Arts/Pivoting/Linux.md",
+    "Dark Arts/Privesc/Enumeration",
+    "Dark Arts/Privesc",
+    "Hacking Scratch/Persistence/Linux.md",
+    "Hacking Scratch/Niche Enum Vectors/Pulling Creds from large amounts of text.md",
+    "Hacking Scratch/Encoding/HTML.md",
+    "Hacking Scratch/Privesc/Linux/SUID.md",
+    "Dark Arts",
+    "Dark Arts/Privesc/Linux/Linux.md",
+    "Hacking Scratch/Privesc/Linux/Breakout of restricted shell.md",
     "Dark Arts/File Transfer/Windows.md",
-    "Dark Arts/File Transfer",
-    "Dark Arts/Active Directory/Post Breach/Tools/Attacks/secretsdump.md",
-    "Dark Arts/Mitigations/Active Directory/Kerberoasting.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Attacks/GetUserSPNs.md",
-    "Dark Arts/Mitigations/Active Directory/Pass Attacks.md",
-    "Dark Arts/Active Directory/Mitigations",
-    "Dark Arts/Active Directory/Initial Breach/LLMNR Poisoning.md",
-    "Dark Arts/Active Directory",
-    "Dark Arts/Tools/Active Directory/Linux/Responder.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Attacks",
-    "Dark Arts/Active Directory/Post Breach/Attacks",
-    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/Ping Castle.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration",
-    "Dark Arts/Active Directory/Post Breach/Tools",
-    "Dark Arts/Active Directory/Post Breach",
-    "Dark Arts/Active Directory/Initial Breach",
+    "Hacking Scratch/Tools/Passwords/Hashcat.md",
+    "Dark Arts/Pivoting",
+    "Hacking Scratch/Persistence",
+    "Hacking Scratch/Tools/Host Discovery/fping.md",
+    "Hacking Scratch/Untitled",
+    "Dark Arts/Active Directory/Initial Breach/~Home.md",
+    "Dark Arts/Active Directory/Post Breach/Attacks/PrintNightmare.md",
+    "Dark Arts/Active Directory/Initial Breach/Danger Zone/ZeroLogon.md",
+    "Dark Arts/Active Directory/Initial Breach/Danger Zone/~Home.md",
+    "Dark Arts/Active Directory/Post Domain Compromise/~Homepage.md",
+    "Dark Arts/Active Directory/Initial Breach/Danger Zone",
+    "Dark Arts/Active Directory/Post Domain Compromise/Golden Ticket.md",
+    "Dark Arts/Active Directory/Post Domain Compromise",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }

@@ -8,6 +8,6 @@ For when you need a strategy for getting those first set of credentials to AD th
 4. Look for default credentials on web portals (Printers, Jenkins, websites)
 5. Run [[Dark Arts/Active Directory/Initial Breach/IPv6 DNS Takeover|IPv6 DNS Takeover]]
 6. Assess [[SMB Enum|SMB]] for weaknesses, credentials, files, etc. [[SMBMap]], SMBClient, [[nmap]], metasploit
-7. OSINT valid users then [[Dark Arts/Active Directory - HTB/Attacks/Password Spray|Password Spray]]
+7. OSINT valid users then [[Hacking Scratch/Active Directory - HTB/Attacks/Password Spray|Password Spray]]
 8. Fallback to traditional network pentesting, look for weak services like FTP
 9. Think outside the box/try harder

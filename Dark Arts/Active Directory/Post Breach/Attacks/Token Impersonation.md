@@ -61,7 +61,7 @@ net group "Domain Admins" hawkeye /ADD /DOMAIN
 #### Compromise
 From here, you have another account to play with, so loop back to other attacks:
 [[Dark Arts/Active Directory/Post Breach/Attacks/Kerberoasting|Kerberoasting]]
-[[Dark Arts/Mitigations/Active Directory/Pass Attacks|Pass Attacks]]
+[[Hacking Scratch/Mitigations/Active Directory/Pass Attacks|Pass Attacks]]
 [[Dark Arts/Active Directory/Post Breach/Attacks/Token Impersonation]]
 
 If you add the new user to domain admins, you can try to get all a password dump of the entire domain using [[Dark Arts/Active Directory/Post Breach/Tools/Attacks/secretsdump|secretsdump]] or DCSync or whatever you want. 
