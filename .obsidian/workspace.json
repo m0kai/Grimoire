@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Exploits/LD_PRELOAD.md",
+                "file": "Dark Arts/Privesc/Enumeration/SUIDs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Exploits/LD_PRELOAD.md",
+                "file": "Dark Arts/Privesc/Enumeration/SUIDs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Privesc/Exploits/LD_PRELOAD.md",
+                "file": "Dark Arts/Privesc/Enumeration/SUIDs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Privesc/Exploits/LD_PRELOAD.md"
+                "file": "Dark Arts/Privesc/Enumeration/SUIDs.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
+    "Dark Arts/Privesc/Exploits/Abuse SUIDs.md",
+    "Dark Arts/Privesc/Enumeration/SUIDs.md",
+    "Hacking Practice/Linux Privesc.md",
+    "Dark Arts/Privesc/Enumeration/~Home.md",
+    "Dark Arts/Privesc/Enumeration/Automation.md",
     "Dark Arts/Privesc/Enumeration/Sudo.md",
+    "Dark Arts/Privesc/Exploits/Abusing Sudo.md",
     "Dark Arts/Privesc/Exploits/LD_PRELOAD.md",
     "Dark Arts/Privesc/Exploits/~Home.md",
-    "Dark Arts/Privesc/Enumeration/~Home.md",
-    "Dark Arts/Privesc/Exploits/Sudo.md",
-    "Hacking Practice/Linux Privesc.md",
     "Hacking Practice",
     "Dark Arts/Privesc/Exploits/SSH Keys.md",
     "Dark Arts/Privesc/Enumeration/Looting SSH keys.md",
@@ -162,7 +165,6 @@
     "Dark Arts/Privesc/Enumeration/Weak File Permissions.md",
     "Dark Arts/Privesc/Exploits/Kernel Exploits.md",
     "Dark Arts/Privesc/Enumeration/System.md",
-    "Dark Arts/Privesc/Enumeration/Automation.md",
     "Dark Arts/Privesc/Enumeration/User.md",
     "Dark Arts/Privesc/Exploits",
     "Dark Arts/File Transfer/Linux.md",
@@ -178,8 +180,6 @@
     "Hacking Scratch/Privesc/Linux/SUID.md",
     "Dark Arts",
     "Dark Arts/Privesc/Linux/Linux.md",
-    "Hacking Scratch/Privesc/Linux/Breakout of restricted shell.md",
-    "Dark Arts/File Transfer/Windows.md",
     "Dark Arts/Pivoting",
     "Hacking Scratch/Persistence",
     "Hacking Scratch/Untitled",

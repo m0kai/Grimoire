@@ -9,6 +9,8 @@ nomnomnom information. Find data about the system, users, and such of the comput
 - [[Network|Network Enum]]
 
 **Specific Vectors:**
+- [[Sudo]]
+- [[SUIDs]]
 - [[Password Hunting]]
 - [[Weak File Permissions]]
 - [[Looting SSH keys]]
