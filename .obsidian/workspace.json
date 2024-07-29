@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Exploits/Kernel Exploits.md",
+                "file": "Dark Arts/Privesc/Exploits/LD_PRELOAD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Exploits/Kernel Exploits.md",
+                "file": "Dark Arts/Privesc/Exploits/LD_PRELOAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Privesc/Exploits/Kernel Exploits.md",
+                "file": "Dark Arts/Privesc/Exploits/LD_PRELOAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Privesc/Exploits/Kernel Exploits.md"
+                "file": "Dark Arts/Privesc/Exploits/LD_PRELOAD.md"
               }
             }
           }
@@ -148,18 +148,27 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
+    "Dark Arts/Privesc/Enumeration/Sudo.md",
+    "Dark Arts/Privesc/Exploits/LD_PRELOAD.md",
     "Dark Arts/Privesc/Exploits/~Home.md",
+    "Dark Arts/Privesc/Enumeration/~Home.md",
+    "Dark Arts/Privesc/Exploits/Sudo.md",
+    "Hacking Practice/Linux Privesc.md",
+    "Hacking Practice",
+    "Dark Arts/Privesc/Exploits/SSH Keys.md",
+    "Dark Arts/Privesc/Enumeration/Looting SSH keys.md",
+    "Dark Arts/Privesc/Enumeration/Password Hunting.md",
+    "Dark Arts/Privesc/Exploits/Abuse Shadow File.md",
+    "Dark Arts/Privesc/Enumeration/Weak File Permissions.md",
     "Dark Arts/Privesc/Exploits/Kernel Exploits.md",
+    "Dark Arts/Privesc/Enumeration/System.md",
     "Dark Arts/Privesc/Enumeration/Automation.md",
+    "Dark Arts/Privesc/Enumeration/User.md",
     "Dark Arts/Privesc/Exploits",
     "Dark Arts/File Transfer/Linux.md",
-    "Dark Arts/Privesc/Enumeration/~Home.md",
     "Dark Arts/File Transfer/~Home.md",
-    "Dark Arts/Privesc/Enumeration/Password Hunting.md",
     "Dark Arts/Privesc/Password Hunting",
     "Dark Arts/Privesc/Enumeration/Network.md",
-    "Dark Arts/Privesc/Enumeration/User.md",
-    "Dark Arts/Privesc/Enumeration/System.md",
     "Dark Arts/Pivoting/Linux.md",
     "Dark Arts/Privesc/Enumeration",
     "Dark Arts/Privesc",
@@ -171,19 +180,10 @@
     "Dark Arts/Privesc/Linux/Linux.md",
     "Hacking Scratch/Privesc/Linux/Breakout of restricted shell.md",
     "Dark Arts/File Transfer/Windows.md",
-    "Hacking Scratch/Tools/Passwords/Hashcat.md",
     "Dark Arts/Pivoting",
     "Hacking Scratch/Persistence",
-    "Hacking Scratch/Tools/Host Discovery/fping.md",
     "Hacking Scratch/Untitled",
-    "Dark Arts/Active Directory/Initial Breach/~Home.md",
-    "Dark Arts/Active Directory/Post Breach/Attacks/PrintNightmare.md",
-    "Dark Arts/Active Directory/Initial Breach/Danger Zone/ZeroLogon.md",
-    "Dark Arts/Active Directory/Initial Breach/Danger Zone/~Home.md",
-    "Dark Arts/Active Directory/Post Domain Compromise/~Homepage.md",
     "Dark Arts/Active Directory/Initial Breach/Danger Zone",
-    "Dark Arts/Active Directory/Post Domain Compromise/Golden Ticket.md",
-    "Dark Arts/Active Directory/Post Domain Compromise",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }
