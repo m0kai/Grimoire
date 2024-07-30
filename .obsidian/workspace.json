@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Enumeration/SUIDs.md",
+                "file": "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Enumeration/SUIDs.md",
+                "file": "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Privesc/Enumeration/SUIDs.md",
+                "file": "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Privesc/Enumeration/SUIDs.md"
+                "file": "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
-    "Dark Arts/Privesc/Exploits/Abuse SUIDs.md",
-    "Dark Arts/Privesc/Enumeration/SUIDs.md",
+    "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
+    "().md",
+    "Dark Arts/Privesc/Windows/Enumeration/AV - Defenses.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Password Hunting.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Network.md",
+    "Dark Arts/Privesc/Windows/Enumeration/User.md",
+    "Dark Arts/Privesc/Windows/Enumeration/System.md",
+    "Dark Arts/Privesc/Windows/Exploits/~Home.md",
+    "Hacking Practice/Windows Privesc.md",
+    "Dark Arts/Privesc/Windows/Exploits",
+    "Dark Arts/Privesc/Windows/Enumeration",
     "Hacking Practice/Linux Privesc.md",
-    "Dark Arts/Privesc/Enumeration/~Home.md",
-    "Dark Arts/Privesc/Enumeration/Automation.md",
-    "Dark Arts/Privesc/Enumeration/Sudo.md",
-    "Dark Arts/Privesc/Exploits/Abusing Sudo.md",
-    "Dark Arts/Privesc/Exploits/LD_PRELOAD.md",
-    "Dark Arts/Privesc/Exploits/~Home.md",
+    "Dark Arts/Privesc/Windows",
+    "Dark Arts/Privesc/Linux",
+    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
+    "Dark Arts/Privesc/Linux/Exploits/Docker.md",
+    "Dark Arts/Privesc/Linux/Exploits/~Home.md",
+    "Dark Arts/Privesc/Linux/Enumeration/~Home.md",
+    "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
+    "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
+    "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+    "Dark Arts/Privesc/Linux/Exploits/Abuse SUIDs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Automation.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
+    "Dark Arts/Privesc/Linux/Exploits/Abusing Sudo.md",
+    "Dark Arts/Privesc/Linux/Exploits/LD_PRELOAD.md",
     "Hacking Practice",
-    "Dark Arts/Privesc/Exploits/SSH Keys.md",
-    "Dark Arts/Privesc/Enumeration/Looting SSH keys.md",
-    "Dark Arts/Privesc/Enumeration/Password Hunting.md",
-    "Dark Arts/Privesc/Exploits/Abuse Shadow File.md",
-    "Dark Arts/Privesc/Enumeration/Weak File Permissions.md",
-    "Dark Arts/Privesc/Exploits/Kernel Exploits.md",
-    "Dark Arts/Privesc/Enumeration/System.md",
-    "Dark Arts/Privesc/Enumeration/User.md",
-    "Dark Arts/Privesc/Exploits",
-    "Dark Arts/File Transfer/Linux.md",
-    "Dark Arts/File Transfer/~Home.md",
+    "Dark Arts/Privesc/Linux/Exploits",
     "Dark Arts/Privesc/Password Hunting",
-    "Dark Arts/Privesc/Enumeration/Network.md",
-    "Dark Arts/Pivoting/Linux.md",
-    "Dark Arts/Privesc/Enumeration",
+    "Dark Arts/Privesc/Linux/Enumeration",
     "Dark Arts/Privesc",
-    "Hacking Scratch/Persistence/Linux.md",
-    "Hacking Scratch/Niche Enum Vectors/Pulling Creds from large amounts of text.md",
-    "Hacking Scratch/Encoding/HTML.md",
-    "Hacking Scratch/Privesc/Linux/SUID.md",
     "Dark Arts",
-    "Dark Arts/Privesc/Linux/Linux.md",
-    "Dark Arts/Pivoting",
-    "Hacking Scratch/Persistence",
-    "Hacking Scratch/Untitled",
-    "Dark Arts/Active Directory/Initial Breach/Danger Zone",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }
