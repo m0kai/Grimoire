@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
+                "file": "Dark Arts/Privesc/Windows/Exploits/Kernel Level Exploits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
+                "file": "Dark Arts/Privesc/Windows/Exploits/Kernel Level Exploits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
+                "file": "Dark Arts/Privesc/Windows/Exploits/Kernel Level Exploits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md"
+                "file": "Dark Arts/Privesc/Windows/Exploits/Kernel Level Exploits.md"
               }
             }
           }
@@ -148,7 +148,10 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
+    "Dark Arts/Privesc/Windows/Enumeration/Kernel Level Exploits.md",
     "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
+    "Dark Arts/Privesc/Windows/Exploits/Kernel Level Exploits.md",
+    "Dark Arts/Privesc/Windows/Exploits/~Home.md",
     "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
     "().md",
     "Dark Arts/Privesc/Windows/Enumeration/AV - Defenses.md",
@@ -156,7 +159,6 @@
     "Dark Arts/Privesc/Windows/Enumeration/Network.md",
     "Dark Arts/Privesc/Windows/Enumeration/User.md",
     "Dark Arts/Privesc/Windows/Enumeration/System.md",
-    "Dark Arts/Privesc/Windows/Exploits/~Home.md",
     "Hacking Practice/Windows Privesc.md",
     "Dark Arts/Privesc/Windows/Exploits",
     "Dark Arts/Privesc/Windows/Enumeration",
@@ -176,8 +178,6 @@
     "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
     "Dark Arts/Privesc/Linux/Enumeration/Automation.md",
     "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
-    "Dark Arts/Privesc/Linux/Exploits/Abusing Sudo.md",
-    "Dark Arts/Privesc/Linux/Exploits/LD_PRELOAD.md",
     "Hacking Practice",
     "Dark Arts/Privesc/Linux/Exploits",
     "Dark Arts/Privesc/Password Hunting",
