@@ -25,4 +25,14 @@ Invoke-AllChecks
 # [*] Checking for AlwaysInstallElevated registry key...
 # AbuseeFunction : Write-UserAddMSI
 ```
+If the above method of running PowerUp does not work because you can't load up powershell, you can one line it:
+```bash
+# on your attack box edit the PowerUp.ps1 file and include the command it should run after loading:
+Invoke-AllChecks
+```
+Then, [[Windows|File Transfer]] the script over to the target box. 
+Then on the shell just run:
+```powershell
+powershell -ep bypass .\PowerUp.ps1
+```
 From here, [[Dark Arts/Privesc/Windows/Exploits/AlwaysInstallElevated|Exploit]]

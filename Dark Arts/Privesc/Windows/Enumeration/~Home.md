@@ -16,6 +16,8 @@
 - [[Dark Arts/Privesc/Windows/Enumeration/Autoruns|Autoruns]]
 - [[Dark Arts/Privesc/Windows/Enumeration/AlwaysInstallElevated|AlwaysInstallElevated]]
 - [[Dark Arts/Privesc/Windows/Enumeration/Regsvc ACL|Regsvc ACL]]
-- 
+- [[Dark Arts/Privesc/Windows/Enumeration/Startup Applications|Startup Applications]]
+- [[Dark Arts/Privesc/Windows/Enumeration/DLL Hijack|DLL Hijack]]
+- [[Dark Arts/Privesc/Windows/Enumeration/Unquoted Service Paths|Unquoted Service Paths]]
 ### Checklists
 - [HackTricks](https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation)

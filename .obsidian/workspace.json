@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md",
+                "file": "Hacking Practice/Windows Privesc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md",
+                "file": "Hacking Practice/Windows Privesc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md",
+                "file": "Hacking Practice/Windows Privesc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md"
+                "file": "Hacking Practice/Windows Privesc.md"
               }
             }
           }
@@ -148,33 +148,33 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
-    "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
+    "Hacking Practice/Linux Privesc.md",
+    "Hacking Practice/Buffer Overflows.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Unquoted Service Paths.md",
+    "Dark Arts/Privesc/Windows/Exploits/Unquoted Service Paths.md",
+    "Dark Arts/Privesc/Windows/Exploits/WSL.md",
+    "Dark Arts/Privesc/Windows/Exploits/Startup Applications.md",
     "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Service Executable Files.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Stored Credentials.md",
     "Dark Arts/Privesc/Windows/Exploits/RunAs.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Regsvc ACL.md",
-    "Dark Arts/Privesc/Windows/Exploits/Potato Attacks.md",
-    "Dark Arts/Privesc/Windows/Exploits/~Home.md",
     "Dark Arts/Privesc/Windows/Exploits/Regsvc ACL.md",
-    "Dark Arts/Useful Code/~Home.md",
-    "Dark Arts/Useful Code",
-    "Dark Arts/File Transfer/Windows.md",
-    "Dark Arts/File Transfer/Linux.md",
+    "Dark Arts/Privesc/Windows/Exploits/Potato Attacks.md",
+    "Dark Arts/Privesc/Windows/Exploits/Kernel Level Exploits.md",
+    "Dark Arts/Privesc/Windows/Exploits/Internal Port Forwarding.md",
+    "Dark Arts/Privesc/Windows/Exploits/getsystem.md",
+    "Dark Arts/Privesc/Windows/Exploits/DLL Hijack.md",
+    "Dark Arts/Privesc/Windows/Exploits/Binary Service Paths.md",
     "Dark Arts/Privesc/Windows/Exploits/Autoruns.md",
     "Dark Arts/Privesc/Windows/Exploits/AlwaysInstallElevated.md",
-    "Dark Arts/Privesc/Windows/Enumeration/AlwaysInstallElevated.md",
-    "Hacking Practice/Windows Privesc.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Password Hunting.md",
-    "Dark Arts/Privesc/Windows/Exploits/getsystem.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Alternate Data Streams.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Impersonation Privileges.md",
-    "Dark Arts/Privesc/Windows/Exploits/WSL.md",
     "Dark Arts/Privesc/Windows/Enumeration/WSL.md",
-    "Dark Arts/Privesc/Windows/Exploits/Internal Port Forwarding.md",
+    "Dark Arts/Privesc/Windows/Enumeration/User.md",
+    "Dark Arts/Privesc/Windows/Enumeration/System.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Stored Credentials.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Startup Applications.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Service Executable Files.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Regsvc ACL.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Password Hunting.md",
     "Dark Arts/Privesc/Windows/Enumeration/Network.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Kernel Level Exploits.md",
+    "Dark Arts/Useful Code",
     "Dark Arts/Privesc/Windows/Exploits",
     "Dark Arts/Privesc/Windows/Enumeration",
     "Dark Arts/Privesc/Windows",
