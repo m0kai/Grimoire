@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Practice/Windows Privesc.md",
+                "file": "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find /",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking Practice/Windows Privesc.md",
+                "file": "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking Practice/Windows Privesc.md",
+                "file": "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking Practice/Windows Privesc.md"
+                "file": "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md"
               }
             }
           }
@@ -149,41 +149,41 @@
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
     "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
+    "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Service Executable Files.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
     "Dark Arts/Privesc/Windows/Enumeration/Stored Credentials.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Password Hunting.md",
     "Dark Arts/Privesc/Windows/Exploits/RunAs.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Regsvc ACL.md",
+    "Dark Arts/Privesc/Windows/Exploits/Potato Attacks.md",
     "Dark Arts/Privesc/Windows/Exploits/~Home.md",
+    "Dark Arts/Privesc/Windows/Exploits/Regsvc ACL.md",
+    "Dark Arts/Useful Code/~Home.md",
+    "Dark Arts/Useful Code",
+    "Dark Arts/File Transfer/Windows.md",
+    "Dark Arts/File Transfer/Linux.md",
+    "Dark Arts/Privesc/Windows/Exploits/Autoruns.md",
+    "Dark Arts/Privesc/Windows/Exploits/AlwaysInstallElevated.md",
+    "Dark Arts/Privesc/Windows/Enumeration/AlwaysInstallElevated.md",
     "Hacking Practice/Windows Privesc.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Password Hunting.md",
     "Dark Arts/Privesc/Windows/Exploits/getsystem.md",
     "Dark Arts/Privesc/Windows/Enumeration/Alternate Data Streams.md",
-    "Dark Arts/Privesc/Windows/Exploits/Potato Attacks.md",
     "Dark Arts/Privesc/Windows/Enumeration/Impersonation Privileges.md",
     "Dark Arts/Privesc/Windows/Exploits/WSL.md",
     "Dark Arts/Privesc/Windows/Enumeration/WSL.md",
     "Dark Arts/Privesc/Windows/Exploits/Internal Port Forwarding.md",
     "Dark Arts/Privesc/Windows/Enumeration/Network.md",
-    "Dark Arts/File Transfer/Windows.md",
-    "Dark Arts/File Transfer/Linux.md",
     "Dark Arts/Privesc/Windows/Enumeration/Kernel Level Exploits.md",
-    "Dark Arts/Privesc/Windows/Exploits/Kernel Level Exploits.md",
-    "Dark Arts/File Transfer/~Home.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
-    "().md",
-    "Dark Arts/Privesc/Windows/Enumeration/AV - Defenses.md",
-    "Dark Arts/Privesc/Windows/Enumeration/User.md",
-    "Dark Arts/Privesc/Windows/Enumeration/System.md",
     "Dark Arts/Privesc/Windows/Exploits",
     "Dark Arts/Privesc/Windows/Enumeration",
-    "Hacking Practice/Linux Privesc.md",
     "Dark Arts/Privesc/Windows",
     "Dark Arts/Privesc/Linux",
-    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
     "Hacking Practice",
     "Dark Arts/Privesc/Linux/Exploits",
     "Dark Arts/Privesc/Password Hunting",
     "Dark Arts/Privesc/Linux/Enumeration",
     "Dark Arts/Privesc",
-    "Dark Arts",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }
