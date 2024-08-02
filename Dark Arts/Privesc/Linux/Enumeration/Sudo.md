@@ -8,7 +8,7 @@ sudo -l
 
 Then type the programs output into [GTFOBins](https://gtfobins.github.io) and it should walk you through what you need to do. You may also be able to abuse custom software or custom scripts through this vector as well. 
 
-More exploit information can be found [[Abusing Sudo|here]]
+More exploit information can be found [[Dark Arts/Privesc/Linux/Exploits/Sudo/~Home|here]]
 
 #### LD_PRELOAD
 You may find this when executing the above command. When you do, before it lists the software that can be used with sudo privs, you will see the following line:
@@ -32,3 +32,5 @@ sudo -V
 ```
 
 ^297150
+
+From here, [[CVE Exploits#^8d0e58|exploit]]

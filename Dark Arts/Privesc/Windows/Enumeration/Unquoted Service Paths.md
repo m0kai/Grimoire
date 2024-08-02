@@ -4,7 +4,18 @@ As it sounds, you know what this is. The service has a path that includes a spac
 For example, if the path is `C:\Program Files\service.exe`, you put your malware in `C:\Program.exe`, and that gets picked up before the first path. 
 
 #### winpeas.exe
-You can also get this information using winpeas.exe for enumeration. 
+You can also get this information using winpeas.exe for enumeration. [[Windows|File Transfer]] the executable over to the target box. 
+```powershell
+# dumps a lot of info
+# looking for:
+# [*] Interesting Services -non Microsoft-(T1007)
+# [?] Check if you can overwrite some service binary or perform DDL hijacking, also check for unquored paths
+winpeas.exe
+
+# then in red you should see an unquoted path w/ spaces and:
+# No Quotes and Space detected!
+```
+From her, [[Dark Arts/Privesc/Windows/Exploits/Unquoted Service Paths|Exploit]]
 #### Using PowerUp.ps1
 [[Windows|File Transfer]] `PowerUp.ps1` to target host
 ```powershell

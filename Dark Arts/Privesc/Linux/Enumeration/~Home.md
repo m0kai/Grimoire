@@ -4,16 +4,16 @@ nomnomnom information. Find data about the system, users, and such of the comput
 -- -
 **General:**
 - [[Automation]]
-- [[Dark Arts/Privesc/Linux/Enumeration/System|System Enum]]
-- [[Dark Arts/Privesc/Linux/Enumeration/User|User Enum]]
-- [[Dark Arts/Privesc/Linux/Enumeration/Network|Network Enum]]
+- [[Dark Arts/Privesc/Linux/Enumeration/General Recon/System|System Enum]]
+- [[Dark Arts/Privesc/Linux/Enumeration/General Recon/User|User Enum]]
+- [[Dark Arts/Privesc/Linux/Enumeration/General Recon/Network|Network Enum]]
 
 **Specific Vectors:**
 - [[Sudo]]
 - [[SUIDs]]
 - [[Capabilities]]
 - [[Dark Arts/Privesc/Linux/Enumeration/Cron Jobs|Cron Jobs]]
-- [[Dark Arts/Privesc/Linux/Enumeration/Password Hunting]]
+- [[Dark Arts/Privesc/Linux/Enumeration/Password Hunting|Password Hunting]]
 - [[Weak File Permissions]]
 - [[Looting SSH keys]]
 - [[Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing|NFS Root Squashing]]
