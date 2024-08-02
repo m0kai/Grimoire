@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Stuff/Nordvpn.md",
-                "mode": "source",
+                "file": "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Stuff/Nordvpn.md",
+                "file": "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Stuff/Nordvpn.md",
+                "file": "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Stuff/Nordvpn.md"
+                "file": "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
+    "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
     "Dark Arts/Privesc/Linux/Exploits/Abuse SUIDs.md",
-    "Linux Stuff/Nordvpn.md",
     "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
+    "Linux Stuff/Nordvpn.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo/LD_PRELOAD.md",
     "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
     "Dark Arts/Privesc/Linux/Enumeration/~Home.md",
@@ -174,8 +176,6 @@
     "Dark Arts/Privesc/Windows/Exploits/~Home.md",
     "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
     "Dark Arts/Privesc/Windows/Enumeration/Internet Browsers.md",
-    "Dark Arts/Privesc/Windows/Enumeration/CVE-2019-1388.md",
-    "Dark Arts/Privesc/Windows/Exploits/Unquoted Service Paths.md",
     "Dark Arts/Useful Code",
     "Dark Arts/Privesc/Windows/Exploits",
     "Dark Arts/Privesc/Windows/Enumeration",
