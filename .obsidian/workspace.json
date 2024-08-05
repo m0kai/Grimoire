@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md",
+                "file": "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md",
+                "file": "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md",
+                "file": "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md"
+                "file": "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
+    "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md",
     "Dark Arts/Privesc/Linux/Exploits/~Home.md",
     "Hacking Practice/Linux Privesc.md",
     "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
@@ -170,7 +171,6 @@
     "Dark Arts/Privesc/Linux/Enumeration/~Home.md",
     "Hacking Scratch/Misc/Hashcat modes.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo/Privileged File Read.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo/Shell Escapes.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo/CVE Exploits.md",
     "Dark Arts/Privesc/Linux/Enumeration/General Recon/Automation.md",
