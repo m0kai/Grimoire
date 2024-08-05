@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
-                "mode": "preview",
+                "file": "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
+                "file": "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
+                "file": "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md"
+                "file": "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md"
               }
             }
           }
@@ -148,6 +148,18 @@
   },
   "active": "59cd9840e69e25b2",
   "lastOpenFiles": [
+    "Dark Arts/Privesc/Linux/Exploits/~Home.md",
+    "Hacking Practice/Linux Privesc.md",
+    "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
+    "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
+    "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
+    "Dark Arts/Web App/Injection/SQLi.md",
+    "Dark Arts/Web App/Injection/~Home.md",
+    "Hacking Scratch/Web App/APIs/Enum endpoints.md",
+    "Dark Arts/Web App/Injection",
+    "Hacking Scratch/Web App/APIs/Enum Docs.md",
+    "Hacking Scratch/Web App/XSS.md",
+    "Dark Arts/Web App",
     "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
     "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
     "Dark Arts/Privesc/Linux/Exploits/Abuse SUIDs.md",
@@ -166,24 +178,12 @@
     "Dark Arts/Privesc/Linux/Enumeration/General Recon",
     "Dark Arts/Privesc/Linux/Exploits/Abuse Shadow File.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo",
-    "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
-    "Dark Arts/Privesc/Linux/Exploits/Kernel Exploits.md",
-    "Hacking Practice/Linux Privesc.md",
-    "Hacking Practice/Buffer Overflows.md",
-    "Hacking Practice/Windows Privesc.md",
-    "Dark Arts/Privesc/Windows/Exploits/CVE-2019-1388.md",
-    "Dark Arts/Privesc/Windows/Exploits/~Home.md",
-    "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Internet Browsers.md",
     "Dark Arts/Useful Code",
     "Dark Arts/Privesc/Windows/Exploits",
     "Dark Arts/Privesc/Windows/Enumeration",
     "Dark Arts/Privesc/Windows",
     "Dark Arts/Privesc/Linux",
     "Hacking Practice",
-    "Dark Arts/Privesc/Linux/Exploits",
-    "Dark Arts/Privesc/Password Hunting",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }
