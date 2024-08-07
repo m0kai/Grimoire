@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
+                "file": "Linux Stuff/Troubleshooting/Fix browser flicker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2214291debc7370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Stuff/Troubleshooting/Get Nvidia working.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0567de7d2e5a395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking Scratch/Active Directory - HTB/Enumeration/Active Host Discovery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0013758156fbb88d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking Practice/Linux Privesc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cve-2019-18634",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
+                "file": "Hacking Practice/Linux Privesc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
+                "file": "Hacking Practice/Linux Privesc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md"
+                "file": "Hacking Practice/Linux Privesc.md"
               }
             }
           }
@@ -146,44 +183,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59cd9840e69e25b2",
+  "active": "0013758156fbb88d",
   "lastOpenFiles": [
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md",
-    "Dark Arts/Privesc/Linux/Exploits/~Home.md",
-    "Hacking Practice/Linux Privesc.md",
-    "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
     "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
-    "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
-    "Dark Arts/Web App/Injection/SQLi.md",
-    "Dark Arts/Web App/Injection/~Home.md",
-    "Hacking Scratch/Web App/APIs/Enum endpoints.md",
-    "Dark Arts/Web App/Injection",
-    "Hacking Scratch/Web App/APIs/Enum Docs.md",
-    "Hacking Scratch/Web App/XSS.md",
-    "Dark Arts/Web App",
-    "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/~Home.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
     "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
     "Dark Arts/Privesc/Linux/Exploits/Abuse SUIDs.md",
     "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
-    "Linux Stuff/Nordvpn.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/LD_PRELOAD.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
-    "Dark Arts/Privesc/Linux/Enumeration/~Home.md",
-    "Hacking Scratch/Misc/Hashcat modes.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/Privileged File Read.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/Shell Escapes.md",
+    "Hacking Practice/Linux Privesc.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo/CVE Exploits.md",
-    "Dark Arts/Privesc/Linux/Enumeration/General Recon/Automation.md",
-    "Dark Arts/Privesc/Linux/Enumeration/General Recon/~Home.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
+    "Dark Arts/Web App/Injection/SQLi.md",
+    "Linux Stuff/Software/Engineering/MySQL.md",
+    "Dark Arts/Host Discovery.md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Active Host Discovery.md",
+    "Dark Arts/Untitled",
+    "Hacking Scratch/Passive Recon/Tools.md",
+    "Hacking Scratch/Passive Recon/Strategies.md",
+    "README.md",
+    "Dark Arts/Privesc/Linux/Exploits/Sudo/Shell Escapes.md",
+    "Linux Stuff/Software/Engineering",
+    "Linux Stuff/Software/Applications/Nordvpn.md",
+    "Linux Stuff/Software/Applications",
+    "Linux Stuff/Quick Reference.md",
+    "Linux Stuff/Customization",
+    "Linux Stuff/Software",
+    "Linux Stuff/Software/Applications/Virtual Box.md",
+    "Linux Stuff/Troubleshooting/Fix browser flicker.md",
+    "Linux Stuff/Troubleshooting/Get Nvidia working.md",
+    "Linux Stuff/Troubleshooting",
+    "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
+    "Dark Arts/Privesc/Linux/Exploits/Sudo/~Home.md",
+    "Dark Arts/Privesc/Linux/Exploits/~Home.md",
+    "Dark Arts/Web App/Injection",
+    "Dark Arts/Web App",
     "Dark Arts/Privesc/Linux/Enumeration/General Recon",
-    "Dark Arts/Privesc/Linux/Exploits/Abuse Shadow File.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo",
-    "Dark Arts/Useful Code",
-    "Dark Arts/Privesc/Windows/Exploits",
-    "Dark Arts/Privesc/Windows/Enumeration",
-    "Dark Arts/Privesc/Windows",
-    "Dark Arts/Privesc/Linux",
-    "Hacking Practice",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }
