@@ -8,8 +8,8 @@
 - **Full CTF** - fully go through the hacking workflow, an actual CTF foothold and privesc
 	- [Simple CTF](https://tryhackme.com/r/room/easyctf)
 	- [Vulnversity](https://tryhackme.com/r/room/vulnversity)
-	- [cMesS](https://tryhackme.com/r/room/cmess) -
-	- [UltraTech](https://tryhackme.com/r/room/ultratech1)
+	- [cMesS](https://tryhackme.com/r/room/cmess) 
+	- [UltraTech](https://tryhackme.com/r/room/ultratech1) - 
 	- [Linux Privesc](https://tryhackme.com/r/room/linuxprivesc)
 - **Capstone**
 	- [Lazy Admin](https://tryhackme.com/r/room/lazyadmin)
