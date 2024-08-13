@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Stuff/Build/Key Bindings.md",
+                "file": "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Stuff/Build/Key Bindings.md",
+                "file": "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Stuff/Build/Key Bindings.md",
+                "file": "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Stuff/Build/Key Bindings.md"
+                "file": "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md"
               }
             }
           }
@@ -185,21 +185,30 @@
   },
   "active": "0013758156fbb88d",
   "lastOpenFiles": [
+    "Dark Arts/Web App/Recon/~Home.md",
+    "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
+    "Dark Arts/Web App/Recon/Subdomain Enum/Bruteforce.md",
+    "Dark Arts/Web App/Recon/DNS Zone Transfer.md",
+    "Dark Arts/OSINT/DNS.md",
+    "Dark Arts/OSINT/~Home.md",
+    "Dark Arts/Web App/Recon/Subdomain Enum/CT Logs.md",
+    "Dark Arts/Web App/Recon/Subdomain Enum/Virtual Hosts.md",
+    "Dark Arts/Web App/Recon/Subdomain Enum",
+    "Hacking Practice/Linux Privesc.md",
+    "Dark Arts/Host Discovery.md",
     "Linux Stuff/Build/ASUS G14.md",
+    "Dark Arts/Web App/Recon",
     "Linux Stuff/Build/Key Bindings.md",
     "Linux Stuff/Build/Razer.md",
-    "Hacking Practice/Linux Privesc.md",
     "Linux Stuff/Build",
     "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
     "Dark Arts/Privesc/Linux/Exploits/Abuse SUIDs.md",
     "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
     "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
     "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
-    "Dark Arts/OSINT/DNS.md",
     "Networking/DNS.md",
     "Linux Stuff/Software/Engineering/MySQL.md",
     "Networking",
-    "Dark Arts/OSINT/~Home.md",
     "Dark Arts/OSINT/WHOIS.md",
     "Dark Arts/OSINT",
     "Dark Arts/Privesc/Linux/Enumeration/~Home.md",
@@ -207,20 +216,11 @@
     "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
     "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo/CVE Exploits.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
-    "Dark Arts/Web App/Injection/SQLi.md",
-    "Dark Arts/Host Discovery.md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Active Host Discovery.md",
-    "Hacking Scratch/Passive Recon/Tools.md",
-    "Hacking Scratch/Passive Recon/Strategies.md",
-    "README.md",
     "Linux Stuff/Software/Engineering",
     "Linux Stuff/Software/Applications",
     "Linux Stuff/Customization",
     "Linux Stuff/Software",
     "Linux Stuff/Troubleshooting",
-    "Dark Arts/Web App/Injection",
-    "Dark Arts/Web App",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }

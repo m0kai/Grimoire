@@ -45,3 +45,5 @@ dig +noall +answer <domain>.com
 # many servers ignore ANY queries 
 dig <domain>.com any
 ```
+### Zone Transfers
+[[DNS Zone Transfer]]
