@@ -15,7 +15,7 @@ sudo nmap 10.129.2.18 -sn -oN host --disable-arp-ping
 # not sure sudo is needed
 # -oA output all formats, -oN may be better
 # Firewalls can easily block this tho
-sudo nmap 10.129.2.0/24 -sn -oA tnet | get for | cud -d "" -f 5
+sudo nmap 10.129.2.0/24 -sn -oA tnet | grep for | cud -d "" -f 5
 
 # from hostlist file
 sudo nmap -sn -oA tnet -iL hostlist.lst | grep for | cut -d " " -f 5
