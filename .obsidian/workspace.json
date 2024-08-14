@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
+                "file": "Linux Stuff/Build/ASUS G14.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
+                "file": "Linux Stuff/Build/ASUS G14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
+                "file": "Linux Stuff/Build/ASUS G14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md"
+                "file": "Linux Stuff/Build/ASUS G14.md"
               }
             }
           }
@@ -185,17 +185,27 @@
   },
   "active": "0013758156fbb88d",
   "lastOpenFiles": [
-    "Dark Arts/Web App/Recon/~Home.md",
-    "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
-    "Dark Arts/Web App/Recon/Subdomain Enum/Bruteforce.md",
-    "Dark Arts/Web App/Recon/DNS Zone Transfer.md",
-    "Dark Arts/OSINT/DNS.md",
-    "Dark Arts/OSINT/~Home.md",
-    "Dark Arts/Web App/Recon/Subdomain Enum/CT Logs.md",
+    "Dark Arts/Privesc/Linux/Exploits/SSH Keys.md",
+    "Dark Arts/Privesc/Linux/Exploits/Docker.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+    "Dark Arts/Port Scanning/Quick Scans.md",
+    "Dark Arts/Port Scanning/Default behavior.md",
+    "Dark Arts/Port Scanning/General Information.md",
+    "Dark Arts/Port Scanning/~Home.md",
+    "Dark Arts/Port Scanning",
+    "Dark Arts/Host Discovery.md",
     "Dark Arts/Web App/Recon/Subdomain Enum/Virtual Hosts.md",
+    "Dark Arts/Web App/Recon/Subdomain Enum/Bruteforce.md",
+    "Dark Arts/Web App/Recon/Subdomain Enum/CT Logs.md",
+    "Dark Arts/Web App/Recon/~Home.md",
+    "Dark Arts/OSINT/DNS.md",
+    "Dark Arts/OSINT/WHOIS.md",
+    "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
+    "Dark Arts/Web App/Recon/DNS Zone Transfer.md",
+    "Dark Arts/OSINT/~Home.md",
     "Dark Arts/Web App/Recon/Subdomain Enum",
     "Hacking Practice/Linux Privesc.md",
-    "Dark Arts/Host Discovery.md",
     "Linux Stuff/Build/ASUS G14.md",
     "Dark Arts/Web App/Recon",
     "Linux Stuff/Build/Key Bindings.md",
@@ -205,22 +215,12 @@
     "Dark Arts/Privesc/Linux/Exploits/Abuse SUIDs.md",
     "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
     "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
-    "Networking/DNS.md",
-    "Linux Stuff/Software/Engineering/MySQL.md",
     "Networking",
-    "Dark Arts/OSINT/WHOIS.md",
     "Dark Arts/OSINT",
-    "Dark Arts/Privesc/Linux/Enumeration/~Home.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
-    "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/CVE Exploits.md",
     "Linux Stuff/Software/Engineering",
     "Linux Stuff/Software/Applications",
     "Linux Stuff/Customization",
     "Linux Stuff/Software",
-    "Linux Stuff/Troubleshooting",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }
