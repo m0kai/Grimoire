@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59cd9840e69e25b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Stuff/Troubleshooting/Fix browser flicker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2214291debc7370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Stuff/Troubleshooting/Get Nvidia working.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f0567de7d2e5a395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Scratch/Active Directory - HTB/Enumeration/Active Host Discovery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0013758156fbb88d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hacking Scratch/Active Directory - HTB/Enumeration/Active Host Discovery.md",
+                "file": "Dark Arts/Recon/Port Scanning/Performance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking Scratch/Active Directory - HTB/Enumeration/Active Host Discovery.md",
+                "file": "Dark Arts/Recon/Port Scanning/Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking Scratch/Active Directory - HTB/Enumeration/Active Host Discovery.md",
+                "file": "Dark Arts/Recon/Port Scanning/Performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking Scratch/Active Directory - HTB/Enumeration/Active Host Discovery.md"
+                "file": "Dark Arts/Recon/Port Scanning/Performance.md"
               }
             }
           }
@@ -183,9 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0013758156fbb88d",
+  "active": "f0567de7d2e5a395",
   "lastOpenFiles": [
+    "Dark Arts/Recon/Port Scanning/Scripts.md",
+    "Dark Arts/Recon/Port Scanning/Performance.md",
+    "Hacking Practice/Linux Privesc.md",
+    "Dark Arts/Recon/Port Scanning/Basics.md",
     "Dark Arts/Host Discovery.md",
+    "Dark Arts/Recon/Port Scanning/Quick Scans.md",
+    "Dark Arts/Recon/Port Scanning/Save Output.md",
+    "Dark Arts/Recon/Port Scanning/General Information.md",
+    "Dark Arts/Recon/Port Scanning/Default behavior.md",
+    "Dark Arts/Recon/Port Scanning/~Home.md",
+    "Dark Arts/Recon",
+    "Untitled",
+    "Hacking Scratch/Tools/Host Discovery/fping.md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Active Host Discovery.md",
     "Dark Arts/Web App/Recon/Subdomain Enum/Virtual Hosts.md",
     "Dark Arts/Web App/Recon/Subdomain Enum/Bruteforce.md",
     "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
@@ -194,33 +170,20 @@
     "Dark Arts/Privesc/Linux/Exploits/Docker.md",
     "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
     "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
-    "Dark Arts/Port Scanning/Quick Scans.md",
-    "Dark Arts/Port Scanning/Default behavior.md",
-    "Dark Arts/Port Scanning/General Information.md",
-    "Dark Arts/Port Scanning/~Home.md",
-    "Dark Arts/Port Scanning",
+    "Dark Arts/Recon/Port Scanning",
     "Dark Arts/Web App/Recon/Subdomain Enum/CT Logs.md",
     "Dark Arts/Web App/Recon/~Home.md",
-    "Dark Arts/OSINT/DNS.md",
-    "Dark Arts/OSINT/WHOIS.md",
+    "Dark Arts/Recon/OSINT/DNS.md",
+    "Dark Arts/Recon/OSINT/WHOIS.md",
     "Dark Arts/Web App/Recon/DNS Zone Transfer.md",
-    "Dark Arts/OSINT/~Home.md",
+    "Dark Arts/Recon/OSINT/~Home.md",
     "Dark Arts/Web App/Recon/Subdomain Enum",
-    "Hacking Practice/Linux Privesc.md",
     "Dark Arts/Web App/Recon",
-    "Linux Stuff/Build/Key Bindings.md",
-    "Linux Stuff/Build/Razer.md",
     "Linux Stuff/Build",
-    "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
-    "Dark Arts/Privesc/Linux/Exploits/Abuse SUIDs.md",
-    "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
     "Networking",
-    "Dark Arts/OSINT",
+    "Dark Arts/Recon/OSINT",
     "Linux Stuff/Software/Engineering",
     "Linux Stuff/Software/Applications",
-    "Linux Stuff/Customization",
-    "Linux Stuff/Software",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }

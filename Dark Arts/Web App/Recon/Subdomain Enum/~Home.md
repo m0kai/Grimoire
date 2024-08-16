@@ -3,5 +3,5 @@ Variety of ways to find subdomains. Most commonly used for CTFs is #virtualhost 
 ### Index
 - [[Virtual Hosts]]
 - [[CT Logs]]
-- [[Dark Arts/OSINT/DNS|DNS]] - Look through records as shown to find subdomains, also see [[DNS Zone Transfer]].
+- [[Dark Arts/Recon/OSINT/DNS|DNS]] - Look through records as shown to find subdomains, also see [[DNS Zone Transfer]].
 - [[Bruteforce]]
