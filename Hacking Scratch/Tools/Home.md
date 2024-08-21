@@ -1,7 +1,7 @@
 -- -
 ### General
 -- -
-[[nmap]]
+[[Hacking Scratch/Tools/nmap]]
 ### Network Monitoring
 -- -
 [[wireshark]]

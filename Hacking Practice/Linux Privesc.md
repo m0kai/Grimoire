@@ -9,8 +9,8 @@
 	- [Simple CTF](https://tryhackme.com/r/room/easyctf)
 	- [Vulnversity](https://tryhackme.com/r/room/vulnversity)
 	- [cMesS](https://tryhackme.com/r/room/cmess) 
-	- [UltraTech](https://tryhackme.com/r/room/ultratech1) - 
-	- [Linux Privesc](https://tryhackme.com/r/room/linuxprivesc)
+	- [UltraTech](https://tryhackme.com/r/room/ultratech1) 
+	- [Linux Privesc](https://tryhackme.com/r/room/linuxprivesc) -
 - **Capstone**
 	- [Lazy Admin](https://tryhackme.com/r/room/lazyadmin)
 	- [Anonymous](https://tryhackme.com/r/room/anonymous)

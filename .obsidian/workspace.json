@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Recon/Port Scanning/Performance.md",
+                "file": "Dark Arts/Pivoting/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Recon/Port Scanning/Performance.md",
+                "file": "Dark Arts/Pivoting/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Recon/Port Scanning/Performance.md",
+                "file": "Dark Arts/Pivoting/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Recon/Port Scanning/Performance.md"
+                "file": "Dark Arts/Pivoting/Linux.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "f0567de7d2e5a395",
   "lastOpenFiles": [
-    "Dark Arts/Recon/Port Scanning/Scripts.md",
-    "Dark Arts/Recon/Port Scanning/Performance.md",
-    "Hacking Practice/Linux Privesc.md",
-    "Dark Arts/Recon/Port Scanning/Basics.md",
     "Dark Arts/Host Discovery.md",
-    "Dark Arts/Recon/Port Scanning/Quick Scans.md",
-    "Dark Arts/Recon/Port Scanning/Save Output.md",
-    "Dark Arts/Recon/Port Scanning/General Information.md",
-    "Dark Arts/Recon/Port Scanning/Default behavior.md",
-    "Dark Arts/Recon/Port Scanning/~Home.md",
-    "Dark Arts/Recon",
+    "Dark Arts/Privesc/Linux/Enumeration/General Recon/Network.md",
+    "Dark Arts/Pivoting/Linux.md",
+    "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
+    "Dark Arts/Privesc/Linux/Exploits/Sudo/LD_PRELOAD.md",
+    "Dark Arts/Privesc/Linux/Exploits/Sudo/Privileged File Read.md",
+    "Dark Arts/Privesc/Linux/Exploits/Sudo/Shell Escapes.md",
+    "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
+    "Dark Arts/Privesc/Linux/Exploits/Abuse Shadow File.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Services/MySQL.md",
+    "Dark Arts/Services/SSH.md",
+    "Dark Arts/Services/RPC.md",
+    "Dark Arts/Services/SMB.md",
+    "Dark Arts/Tools/nmap.md",
+    "Dark Arts/Services/FTP.md",
+    "Dark Arts/Untitled",
     "Untitled",
-    "Hacking Scratch/Tools/Host Discovery/fping.md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Active Host Discovery.md",
-    "Dark Arts/Web App/Recon/Subdomain Enum/Virtual Hosts.md",
-    "Dark Arts/Web App/Recon/Subdomain Enum/Bruteforce.md",
-    "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
-    "Linux Stuff/Build/ASUS G14.md",
-    "Dark Arts/Privesc/Linux/Exploits/SSH Keys.md",
-    "Dark Arts/Privesc/Linux/Exploits/Docker.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
+    "Dark Arts/Services/MySQL.md",
+    "Dark Arts/Services",
+    "Dark Arts/Active Directory/Initial Breach/~Home.md",
+    "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
     "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
+    "Dark Arts/Privesc/Linux/Exploits/Services/MySQL.md",
+    "Dark Arts/Privesc/Linux/Exploits/Services",
+    "Linux Stuff/Quick Reference.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Services",
+    "Other",
+    "Dark Arts/Tools",
+    "Dark Arts/Recon",
     "Dark Arts/Recon/Port Scanning",
-    "Dark Arts/Web App/Recon/Subdomain Enum/CT Logs.md",
-    "Dark Arts/Web App/Recon/~Home.md",
-    "Dark Arts/Recon/OSINT/DNS.md",
-    "Dark Arts/Recon/OSINT/WHOIS.md",
-    "Dark Arts/Web App/Recon/DNS Zone Transfer.md",
-    "Dark Arts/Recon/OSINT/~Home.md",
     "Dark Arts/Web App/Recon/Subdomain Enum",
-    "Dark Arts/Web App/Recon",
-    "Linux Stuff/Build",
-    "Networking",
-    "Dark Arts/Recon/OSINT",
-    "Linux Stuff/Software/Engineering",
-    "Linux Stuff/Software/Applications",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }
