@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Pivoting/Linux.md",
+                "file": "Dark Arts/Pivoting/Local Port Forwarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Pivoting/Linux.md",
+                "file": "Dark Arts/Pivoting/Local Port Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Pivoting/Linux.md",
+                "file": "Dark Arts/Pivoting/Local Port Forwarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Pivoting/Linux.md"
+                "file": "Dark Arts/Pivoting/Local Port Forwarding.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "f0567de7d2e5a395",
   "lastOpenFiles": [
+    "Dark Arts/Pivoting/Enumeration.md",
+    "Dark Arts/Pivoting/Local Port Forwarding.md",
+    "Dark Arts/Pivoting/Linux.md",
     "Dark Arts/Host Discovery.md",
     "Dark Arts/Privesc/Linux/Enumeration/General Recon/Network.md",
-    "Dark Arts/Pivoting/Linux.md",
     "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo/LD_PRELOAD.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo/Privileged File Read.md",
@@ -175,9 +177,7 @@
     "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
     "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
     "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
-    "Dark Arts/Privesc/Linux/Exploits/Services/MySQL.md",
     "Dark Arts/Privesc/Linux/Exploits/Services",
-    "Linux Stuff/Quick Reference.md",
     "Dark Arts/Privesc/Linux/Enumeration/Services",
     "Other",
     "Dark Arts/Tools",
