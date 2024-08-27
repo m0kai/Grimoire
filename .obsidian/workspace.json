@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Web App/Recon/DNS Zone Transfer.md",
+                "file": "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Web App/Recon/DNS Zone Transfer.md",
+                "file": "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Web App/Recon/DNS Zone Transfer.md",
+                "file": "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Web App/Recon/DNS Zone Transfer.md"
+                "file": "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md"
               }
             }
           }
@@ -148,32 +148,32 @@
   },
   "active": "f0567de7d2e5a395",
   "lastOpenFiles": [
-    "Dark Arts/Recon/OSINT/DNS.md",
-    "Dark Arts/Recon/Port Scanning/Scripts.md",
-    "Dark Arts/Recon/Port Scanning/Save Output.md",
-    "Dark Arts/Recon/Port Scanning/Quick Scans.md",
-    "Dark Arts/Recon/Port Scanning/Performance.md",
-    "Dark Arts/Recon/Port Scanning/General Information.md",
-    "Dark Arts/Recon/Port Scanning/Evasion.md",
-    "Dark Arts/Recon/Port Scanning/Default behavior.md",
-    "Dark Arts/Recon/Port Scanning/Basics.md",
-    "Dark Arts/Active Directory/Initial Breach/LLMNR Poisoning.md",
-    "Dark Arts/Active Directory/Initial Breach/IPv6 DNS Takeover.md",
-    "Dark Arts/Active Directory/Initial Breach/TTPs.md",
-    "Dark Arts/Active Directory/Initial Breach/SMB Relay.md",
-    "Dark Arts/Active Directory/Initial Breach/Passback Attack.md",
-    "Hacking Practice/Linux Privesc.md",
-    "Dark Arts/Pivoting/Dynamic Port Forwarding.md",
-    "Dark Arts/Pivoting/Remote Port Forwarding.md",
-    "Dark Arts/File Transfer/SCP.md",
     "Dark Arts/File Transfer/Windows.md",
-    "Dark Arts/File Transfer/Linux.md",
-    "Dark Arts/File Transfer/~Home.md",
-    "Dark Arts/Pivoting/Local Port Forwarding.md",
-    "Dark Arts/Pivoting/Enumeration.md",
-    "Dark Arts/Pivoting/Linux.md",
-    "Dark Arts/Host Discovery.md",
-    "Dark Arts/Privesc/Linux/Enumeration/General Recon/Network.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Password Hunting.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Regsvc ACL.md",
+    "Dark Arts/Privesc/Windows/Exploits/Regsvc ACL.md",
+    "Dark Arts/Privesc/Windows/Exploits/Potato Attacks.md",
+    "Dark Arts/Privesc/Windows/Exploits/Kernel Level Exploits.md",
+    "Dark Arts/Privesc/Windows/Exploits/Internal Port Forwarding.md",
+    "Dark Arts/Privesc/Windows/Exploits/getsystem.md",
+    "Dark Arts/Privesc/Windows/Enumeration/CVE-2019-1388.md",
+    "Dark Arts/Privesc/Windows/Exploits/CVE-2019-1388.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Binary Service Paths.md",
+    "Dark Arts/Privesc/Windows/Exploits/Binary Service Paths.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
+    "Dark Arts/Privesc/Windows/Exploits/Autoruns.md",
+    "Dark Arts/Privesc/Windows/Enumeration/AlwaysInstallElevated.md",
+    "Dark Arts/Privesc/Windows/Exploits/AlwaysInstallElevated.md",
+    "Dark Arts/Privesc/Windows/Exploits/~Home.md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Remote Access (Get a Shell)/WinRM Access.md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Remote Access (Get a Shell)/RDP Acess.md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Password Hunting/SYSVOL Scripts.md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Password Hunting/Passwords in descriptions.md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Password Hunting/Password Policy.md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Password Hunting/Password not required.md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Password Hunting/Group Policy Preferences (GPP).md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Living off the Land/Domain Enum.md",
+    "Hacking Scratch/Active Directory - HTB/Enumeration/Authenticated/Linux/SMB Enum.md",
     "Dark Arts/Untitled",
     "Untitled",
     "Dark Arts/Services",

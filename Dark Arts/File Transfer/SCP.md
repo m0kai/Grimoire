@@ -1,4 +1,4 @@
-- --
+sc- --
 Think of it as `cp` over `ssh`
 ### Upload
 ```bash
