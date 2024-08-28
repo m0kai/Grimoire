@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
+                "file": "Hacking Scratch/Active Directory - HTB/Attacks/DCSync Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
+                "file": "Hacking Scratch/Active Directory - HTB/Attacks/DCSync Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
+                "file": "Hacking Scratch/Active Directory - HTB/Attacks/DCSync Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md"
+                "file": "Hacking Scratch/Active Directory - HTB/Attacks/DCSync Attack.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "f0567de7d2e5a395",
   "lastOpenFiles": [
-    "Dark Arts/File Transfer/Windows.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Password Hunting.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Regsvc ACL.md",
+    "Hacking Scratch/Tools/Active Directory/Bloodhound/Upload Ingestor Data.md",
+    "Hacking Scratch/Tools/Active Directory/Bloodhound/Ingestors/bloodhound.py.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/Bloodhound.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Kernel Level Exploits.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Internet Browsers.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Impersonation Privileges.md",
+    "Dark Arts/Privesc/Windows/Enumeration/DLL Hijack.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Binary Service Paths.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
+    "Dark Arts/Privesc/Windows/Enumeration/AlwaysInstallElevated.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Alternate Data Streams.md",
+    "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
+    "Dark Arts/Privesc/Windows/Enumeration/User.md",
+    "Hacking Practice/Windows Privesc.md",
+    "Dark Arts/Privesc/Windows/Exploits/DLL Hijack.md",
+    "Dark Arts/Privesc/Windows/Enumeration/Startup Applications.md",
+    "Dark Arts/Privesc/Windows/Exploits/Startup Applications.md",
+    "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md",
+    "Dark Arts/Privesc/Windows/Exploits/RunAs.md",
     "Dark Arts/Privesc/Windows/Exploits/Regsvc ACL.md",
     "Dark Arts/Privesc/Windows/Exploits/Potato Attacks.md",
     "Dark Arts/Privesc/Windows/Exploits/Kernel Level Exploits.md",
     "Dark Arts/Privesc/Windows/Exploits/Internal Port Forwarding.md",
     "Dark Arts/Privesc/Windows/Exploits/getsystem.md",
-    "Dark Arts/Privesc/Windows/Enumeration/CVE-2019-1388.md",
     "Dark Arts/Privesc/Windows/Exploits/CVE-2019-1388.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Binary Service Paths.md",
-    "Dark Arts/Privesc/Windows/Exploits/Binary Service Paths.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
-    "Dark Arts/Privesc/Windows/Exploits/Autoruns.md",
-    "Dark Arts/Privesc/Windows/Enumeration/AlwaysInstallElevated.md",
-    "Dark Arts/Privesc/Windows/Exploits/AlwaysInstallElevated.md",
-    "Dark Arts/Privesc/Windows/Exploits/~Home.md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Remote Access (Get a Shell)/WinRM Access.md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Remote Access (Get a Shell)/RDP Acess.md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Password Hunting/SYSVOL Scripts.md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Password Hunting/Passwords in descriptions.md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Password Hunting/Password Policy.md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Password Hunting/Password not required.md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Password Hunting/Group Policy Preferences (GPP).md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Living off the Land/Domain Enum.md",
-    "Hacking Scratch/Active Directory - HTB/Enumeration/Authenticated/Linux/SMB Enum.md",
-    "Dark Arts/Untitled",
+    "Dark Arts/Pivoting/Meterpreter",
     "Untitled",
+    "Dark Arts/Pivoting/Port Forwarding",
+    "Dark Arts/Untitled",
     "Dark Arts/Services",
     "Dark Arts/Privesc/Linux/Exploits/Services",
     "Dark Arts/Privesc/Linux/Enumeration/Services",
     "Other",
     "Dark Arts/Tools",
     "Dark Arts/Recon",
-    "Dark Arts/Recon/Port Scanning",
-    "Dark Arts/Web App/Recon/Subdomain Enum",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }

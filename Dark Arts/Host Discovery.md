@@ -1,7 +1,16 @@
 -- -
 ### ping
+-- -
 ```bash 
+# bash 
 for i in {1..254}; do ping -c 1 -W 1 172.16.1.$i | grep 'from'; done
+for i in {1..254} ;do (ping -c 1 172.16.5.$i | grep "bytes from" &) ;done
+
+# cmd
+for /L %i in (1 1 254) do ping 172.16.5.%i -n 1 -w 100 | find "Reply"
+
+# PowerShell
+1..254 | % {"172.16.5.$($_): $(Test-Connection -count 1 -comp 172.15.5.$($_) -quiet)"}
 ```
 ### fping
 -- -
@@ -48,4 +57,10 @@ sudo nmap 10.129.2.18 -sn -oA host -PE --packet-trace
 
 # --reason: nmap explains why a target is marked as "alive"
 sudo nmap 10.129.2.18 -sn -oA host -PE --reason
+```
+### Meterpreter
+-- -
+You obviously need a meterpreter shell, so this is more for host discovery when you land in an internal network post-pivot.
+```bash
+run post/multi/gather/ping_sweep RHOSTS=172.16.5.0/23
 ```

@@ -13,7 +13,7 @@
 	- [UltraTech](https://tryhackme.com/r/room/ultratech1) 
 - **Capstone**
 	- [Lazy Admin](https://tryhackme.com/r/room/lazyadmin) 
-	- [Anonymous](https://tryhackme.com/r/room/anonymous) -
-	- [Tomghost](https://tryhackme.com/r/room/tomghost)
+	- [Anonymous](https://tryhackme.com/r/room/anonymous) I think this has multiple exploits at least in privesc
+	- [Tomghost](https://tryhackme.com/r/room/tomghost) -
 	- [ConvertMyVideo](https://tryhackme.com/r/room/convertmyvideo) - gonna need pspy
 	- [Brainpan1](https://tryhackme.com/r/room/brainpan) - Buffer Overflow may need a windows box to reverse engineer and whatever.
