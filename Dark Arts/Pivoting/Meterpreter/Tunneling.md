@@ -1,4 +1,4 @@
--- -
+bg-- -
 Pivot through meterpreter **not** SSH.
 ### Create Payload
 Make a meterpreter payload that will be executed on pivot host
@@ -52,5 +52,5 @@ run autorun -p
 ### Use proxychains
 You can now use proxychains to send your traffic through the meterpreter session
 ```bash
-proxychains nmap 172.16.5.19 -p 3389 -sT -v -Pn
+sudo proxychains nmap 172.16.5.19 -p 3389 -sT -v -Pn
 ```

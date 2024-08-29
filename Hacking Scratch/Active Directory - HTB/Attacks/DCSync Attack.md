@@ -1,5 +1,7 @@
 -- -
 Can be used after you get domain admin or if you get a user with these privs. This attack is used to sync AD so you should get all users and their saved hashes from the DC. First, verify your user can do this
+
+*Note: these powershell commands require you open powershell and import PowerView.ps1*
 #### Get User SID
 ```powershell
 Get-DomainUser -Identity <user> | select samaccountname,objectsid,memberof,useraccountcontrol | fl

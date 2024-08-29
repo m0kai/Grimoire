@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Scratch/Active Directory - HTB/Attacks/DCSync Attack.md",
+                "file": "Hacking Scratch/Active Directory - HTB/Attacks/PrintNightmare.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking Scratch/Active Directory - HTB/Attacks/DCSync Attack.md",
+                "file": "Hacking Scratch/Active Directory - HTB/Attacks/PrintNightmare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking Scratch/Active Directory - HTB/Attacks/DCSync Attack.md",
+                "file": "Hacking Scratch/Active Directory - HTB/Attacks/PrintNightmare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking Scratch/Active Directory - HTB/Attacks/DCSync Attack.md"
+                "file": "Hacking Scratch/Active Directory - HTB/Attacks/PrintNightmare.md"
               }
             }
           }
@@ -148,6 +148,24 @@
   },
   "active": "f0567de7d2e5a395",
   "lastOpenFiles": [
+    "Hacking Scratch/Active Directory - HTB/Attacks/PetitPotam.md",
+    "Hacking Scratch/Active Directory - HTB/Attacks/Password Spray.md",
+    "Hacking Scratch/Active Directory - HTB/Attacks/NoPac.md",
+    "Hacking Scratch/Active Directory - HTB/Attacks/LLMNR, NBT-NS, & MDNS Poisoning.md",
+    "Hacking Scratch/Active Directory - HTB/Attacks/Kerberoasting.md",
+    "Hacking Scratch/Active Directory - HTB/Attacks/Golden Ticket Attack.md",
+    "Hacking Scratch/Active Directory - HTB/Attacks/ASREPRoasting.md",
+    "Hacking Scratch/Active Directory - HTB/Attacks/Abuse ACLs.md",
+    "Hacking Scratch/Active Directory - HTB/Attacks/DCSync Attack.md",
+    "Hacking Scratch/Tools/Active Directory/Linux/crackmapexec.md",
+    "Hacking Scratch/Tools/Active Directory/Impacket/Install Toolkit.md",
+    "Hacking Scratch/Tools/Active Directory/Impacket/wmiexec.md",
+    "Hacking Scratch/Tools/Active Directory/Impacket/psexec.md",
+    "Dark Arts/Active Directory/Post Domain Compromise/Dump NTDS.dit.md",
+    "Hacking Practice/Linux Privesc.md",
+    "Dark Arts/Pivoting/Meterpreter/Port Forwarding.md",
+    "Dark Arts/Pivoting/Meterpreter/Tunneling.md",
+    "Dark Arts/Host Discovery.md",
     "Hacking Scratch/Tools/Active Directory/Bloodhound/Upload Ingestor Data.md",
     "Hacking Scratch/Tools/Active Directory/Bloodhound/Ingestors/bloodhound.py.md",
     "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/Bloodhound.md",
@@ -156,24 +174,6 @@
     "Dark Arts/Privesc/Windows/Enumeration/Impersonation Privileges.md",
     "Dark Arts/Privesc/Windows/Enumeration/DLL Hijack.md",
     "Dark Arts/Privesc/Windows/Enumeration/Binary Service Paths.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Autoruns.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Automated Tools.md",
-    "Dark Arts/Privesc/Windows/Enumeration/AlwaysInstallElevated.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Alternate Data Streams.md",
-    "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
-    "Dark Arts/Privesc/Windows/Enumeration/User.md",
-    "Hacking Practice/Windows Privesc.md",
-    "Dark Arts/Privesc/Windows/Exploits/DLL Hijack.md",
-    "Dark Arts/Privesc/Windows/Enumeration/Startup Applications.md",
-    "Dark Arts/Privesc/Windows/Exploits/Startup Applications.md",
-    "Dark Arts/Privesc/Windows/Exploits/Service Executable Files.md",
-    "Dark Arts/Privesc/Windows/Exploits/RunAs.md",
-    "Dark Arts/Privesc/Windows/Exploits/Regsvc ACL.md",
-    "Dark Arts/Privesc/Windows/Exploits/Potato Attacks.md",
-    "Dark Arts/Privesc/Windows/Exploits/Kernel Level Exploits.md",
-    "Dark Arts/Privesc/Windows/Exploits/Internal Port Forwarding.md",
-    "Dark Arts/Privesc/Windows/Exploits/getsystem.md",
-    "Dark Arts/Privesc/Windows/Exploits/CVE-2019-1388.md",
     "Dark Arts/Pivoting/Meterpreter",
     "Untitled",
     "Dark Arts/Pivoting/Port Forwarding",
