@@ -1,4 +1,4 @@
-bg-- -
+-- -
 Pivot through meterpreter **not** SSH.
 ### Create Payload
 Make a meterpreter payload that will be executed on pivot host

@@ -3,7 +3,7 @@ Various pivoting techniques for various situations.
 ### Index
 ###### Basics
 [[Dark Arts/Pivoting/Enumeration|Enumeration]]
-[[Dark Arts/Pivoting/Linux|Linux]]
+[[Basic|Basic]]
 ###### Port Fwd
 [[Dynamic Port Forwarding]]
 [[Local Port Forwarding]]
