@@ -12,3 +12,11 @@ scp reverse.exe ubuntu@10.10.10.10:~/
 scp <user>@<target ip>:<file path> <local path> 
 scp ubuntu@10.10.10.10:/home/ubuntu/local.txt .
 ```
+### Transfer Directory
+```bash
+# -r: recursive I'm assuming
+
+# upload
+scp -r <dir> <user>@<targetip>:<path>
+scp -r rpivot ubutnu@10.10.10.10:/home/ubuntu
+```

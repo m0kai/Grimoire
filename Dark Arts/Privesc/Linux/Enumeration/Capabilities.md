@@ -4,6 +4,9 @@ Similar vector to SUID bit being set. If capabilities are set, it will run from 
 # find capabilities set on programs
 # looking for something like:
 # /usr/bin/python2.6 = cap_setuid+ep
+# 
+# have also pulled it off with:
+# /usr/bin/python3.6 = cap_setuid,<other shit> 
 getcap -r / 2>/dev/null
 ```
 Then go check [GTFOBins](https://gtfobins.github.io) like you would for the SUID bit.
