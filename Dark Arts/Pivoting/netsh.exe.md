@@ -3,6 +3,7 @@ Windows builtin tool, can be used for a lot but this section focuses on using it
 #### Setup Port Forward
 ```powershell
 # can be done from cmd
+# seems to require an admin console
 netsh.exe interface portproxy add v4tov4 listenport=8080 listenaddress=<external ip> connectport=3389 connectaddress=<internal target ip>
 
 netsh.exe interface portproxy add v4tov4 listenport=8080 listenaddress=10.129.15.150 connectport=3389 connectaddress=172.16.5.25

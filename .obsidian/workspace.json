@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+                "file": "Dark Arts/Services/MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cve-2019-18634",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+                "file": "Dark Arts/Services/MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+                "file": "Dark Arts/Services/MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md"
+                "file": "Dark Arts/Services/MySQL.md"
               }
             }
           }
@@ -160,12 +161,12 @@
   },
   "active": "f0567de7d2e5a395",
   "lastOpenFiles": [
-    "Dark Arts/Exploit Dev/gdb.md",
     "Dark Arts/Pivoting/netsh.exe.md",
     "Dark Arts/Pivoting/SSH/rpivot.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+    "Dark Arts/Exploit Dev/gdb.md",
     "Dark Arts/File Transfer/SCP.md",
     "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
     "Dark Arts/Privesc/Linux/Exploits/Abuse Shadow File.md",
     "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
     "Dark Arts/Web App/ffuf.md",

@@ -18,6 +18,10 @@ source ~/.bashrc
 pyenv install 2.7
 pyenv shell 2.7
 ```
+#### Clone rpivot
+```bash
+git clone https://github.com/klsecservices/rpivot.git
+```
 #### Run server
 Run the server script from your attackbox:
 ```bash
