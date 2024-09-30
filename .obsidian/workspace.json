@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Pivoting/DNS Tunneling.md",
+                "file": "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Pivoting/DNS Tunneling.md",
+                "file": "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Pivoting/DNS Tunneling.md",
+                "file": "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Pivoting/DNS Tunneling.md"
+                "file": "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md"
               }
             }
           }
@@ -160,15 +160,23 @@
   },
   "active": "f0567de7d2e5a395",
   "lastOpenFiles": [
-    "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+    "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
+    "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
+    "Dark Arts/Services/SSH.md",
     "Dark Arts/Pivoting/DNS Tunneling.md",
+    "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
     "Dark Arts/Services/MySQL.md",
     "Dark Arts/Pivoting/netsh.exe.md",
     "Dark Arts/Pivoting/SSH/rpivot.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
     "Dark Arts/Exploit Dev/gdb.md",
     "Dark Arts/File Transfer/SCP.md",
-    "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
     "Dark Arts/Privesc/Linux/Exploits/Abuse Shadow File.md",
     "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
     "Dark Arts/Web App/ffuf.md",
@@ -178,16 +186,8 @@
     "Dark Arts/Exploit Dev",
     "Dark Arts/Web App/LFI",
     "Hacking Scratch/Misc/Hashcat modes.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
-    "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
     "Dark Arts/Pivoting/Socat/Bind Shell.md",
     "Dark Arts/File Transfer/Windows.md",
-    "Dark Arts/File Transfer/~Home.md",
-    "Dark Arts/Pivoting/SSH/Dynamic Port Forwarding.md",
-    "Dark Arts/Pivoting/SSH/Remote Port Forwarding.md",
     "Screenshots/55.webp",
     "Dark Arts/Pivoting/Socat",
     "Dark Arts/Pivoting/Meterpreter",
