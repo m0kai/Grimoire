@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Exploit Dev/Assembly.md",
+                "file": "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Exploit Dev/Assembly.md",
+                "file": "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Arts/Exploit Dev/Assembly.md",
+                "file": "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Arts/Exploit Dev/Assembly.md"
+                "file": "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md"
               }
             }
           }
@@ -160,20 +160,25 @@
   },
   "active": "f0567de7d2e5a395",
   "lastOpenFiles": [
-    "Dark Arts/Exploit Dev/pwn tools.md",
-    "Dark Arts/Exploit Dev/Assembly.md",
-    "Dark Arts/Exploit Dev/gdb.md",
-    "Hacking Practice/Buffer Overflows.md",
-    "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
     "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
-    "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
     "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
+    "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
     "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+    "Dark Arts/Exploit Dev/gdb.md",
+    "Dark Arts/Exploit Dev/Assembly.md",
+    "Dark Arts/Exploit Dev/pwn tools.md",
+    "Dark Arts/Exploit Dev/syscalls.md",
+    "Dark Arts/Exploit Dev/pwn college CSE 466.md",
+    "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
+    "Dark Arts/Privesc/Linux/Exploits/Abuse Shadow File.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
+    "Dark Arts/Pivoting/SSH/chisel.md",
+    "Dark Arts/Pivoting/Socat/Bind Shell.md",
+    "Hacking Practice/Buffer Overflows.md",
     "Dark Arts/Services/SSH.md",
     "Dark Arts/Pivoting/DNS Tunneling.md",
     "Dark Arts/Privesc/Windows/Enumeration/~Home.md",
@@ -181,11 +186,6 @@
     "Dark Arts/Pivoting/netsh.exe.md",
     "Dark Arts/Pivoting/SSH/rpivot.md",
     "Dark Arts/File Transfer/SCP.md",
-    "Dark Arts/Privesc/Linux/Exploits/Abuse Shadow File.md",
-    "Dark Arts/Web App/ffuf.md",
-    "Dark Arts/Web App/LFI/Apache Log Poisoning.md",
-    "Dark Arts/Pivoting/SSH/sshuttle.md",
-    "Dark Arts/Pivoting/Plink.md",
     "Dark Arts/Exploit Dev",
     "Dark Arts/Web App/LFI",
     "Screenshots/55.webp",
