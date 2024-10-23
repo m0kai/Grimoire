@@ -1,4 +1,4 @@
--- -
+d-- -
 #### Weak shadow file permissions
 ```bash
 # you shouldn't be able to read the /etc/shadow unless you are root, so if you can read it then you can unshadow it and then crack the hashes for all users on the system. 

@@ -1,5 +1,5 @@
 -- -
-Look for shell escapes using sudo. Note, this usually requires you to have the password to the account you are currently on, but sometimes it does not, so always check!
+Look for shell escapes using sudo. Note, this usually requires you to have the password to the account you are currently on, but 'ometimes it does not, so always check!
 ```bash
 sudo -l
 ```
