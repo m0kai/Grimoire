@@ -5,5 +5,5 @@ Bruteforce subdomains. Basically the same as using ffuf, in this case, the wordl
 ```bash
 # -r: recursive, checks subdomains of found subdomains
 dnsenum --enum <hostname> -f <wordlist> -r
-dnsenum --ennum inlanefreight.com  -f /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -r
+dnsenum --ennm inlanefreight.com  -f /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -r
 ```
