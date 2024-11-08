@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Web App/Information Gathering/Automated Tools/FinalRecon.md",
+                "file": "Dark Arts/Tools/Passwords/Metasploit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FinalRecon"
+              "title": "Metasploit"
             }
           }
         ]
@@ -164,9 +164,17 @@
   },
   "active": "f0567de7d2e5a395",
   "lastOpenFiles": [
+    "Dark Arts/Tools/netexec.md",
+    "Dark Arts/Tools/Passwords/Metasploit.md",
+    "Dark Arts/Tools/Passwords/Hydra.md",
+    "Dark Arts/Tools/Evil-WinRM.md",
+    "Dark Arts/Tools/Passwords",
+    "Dark Arts/Active Directory/Post Breach/Enumeration.md",
+    "Dark Arts/Active Directory/Post Breach/Attacks/Pass Attacks.md",
+    "Dark Arts/Services/SMB.md",
+    "Dark Arts/Web App/Information Gathering/Automated Tools/FinalRecon.md",
     "Dark Arts/Web App/Information Gathering/~Home.md",
     "Dark Arts/Web App/Information Gathering/Automated Tools",
-    "Dark Arts/Web App/Information Gathering/Automated Tools/FinalRecon.md",
     "Dark Arts/Web App/Recon/Subdomain Enum/Virtual Hosts.md",
     "Dark Arts/Web App/Recon/WPScan.md",
     "Dark Arts/Web App/Recon/Subdomain Enum/Bruteforce.md",
@@ -185,13 +193,7 @@
     "Dark Arts/Web App/Recon/Nikto.md",
     "Dark Arts/Web App/Recon/Subdomain Enum/CT Logs.md",
     "Dark Arts/Web App/Recon/Subdomain Enum/~Home.md",
-    "Dark Arts/Web App/Information Gathering/WAF Recon.md",
-    "Dark Arts/Web App/Information Gathering/Certificate Transparency Logs.md",
-    "Dark Arts/Web App/Information Gathering/DNS.md",
-    "Dark Arts/Web App/Information Gathering/WHOIS.md",
     "Dark Arts/Web App/Information Gathering",
-    "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
     "Dark Arts/Privesc/Linux/Exploits/Kernel Exploits",
     "Dark Arts/Exploit Dev",
     "Dark Arts/Web App/LFI",
@@ -199,7 +201,6 @@
     "Dark Arts/Pivoting/Socat",
     "Dark Arts/Pivoting/Meterpreter",
     "Untitled",
-    "Dark Arts/Pivoting/SSH",
     "Screenshots/Pasted image 20240607090602.png"
   ]
 }

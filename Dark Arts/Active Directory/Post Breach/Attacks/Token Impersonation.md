@@ -40,11 +40,11 @@ Now go to the below section "Post-Impersonate" for creating yourself a user in D
 - [Code your own](https://www.insecure.in/blog/token-impersonation-without-metasploit)
 ### Metasploit Impersonate
 #### Get Shell
-[[metasploit]]
-![[metasploit#^66f29a]]
+[[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit]]
+![[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit#^66f29a]]
 #### Impersonate User
-[[metasploit]]
-![[metasploit#^c51a79]]
+[[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit]]
+![[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit#^c51a79]]
 
 ### Post-Impersonate
 #### Add new user to domain admins

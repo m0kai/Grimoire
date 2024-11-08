@@ -20,7 +20,7 @@ This section revolves around moving after you have a single (or multiple) AD acc
 ##### Attack tools
 [[Dark Arts/Active Directory/Post Breach/Tools/Attacks/crackmapexec|Netexec]]
 [[Dark Arts/Active Directory/Post Breach/Tools/Attacks/GetUserSPNs|GetUserSPNs]]
-[[metasploit]]
+[[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit]]
 [[Dark Arts/Active Directory/Post Breach/Tools/Attacks/mimikatz|mimikatz]]
 [[Dark Arts/Active Directory/Post Breach/Tools/Attacks/secretsdump|secretsdump]]
 ##### Cracking
