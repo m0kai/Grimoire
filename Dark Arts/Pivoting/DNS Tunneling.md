@@ -12,7 +12,7 @@ sudo bundle install
 In this example, we will use the powershell client. There are multiple versions/flavors.
 First, download the repo:
 `git clone https://github.com/lukebaggett/dnscat2-powershell.git`
-Then, [[Windows|file transfer]] over the `dnscat2.ps1` script to windows pivot host. Import module into powershell:
+Then, [[Dark Arts/File Transfer/Windows|file transfer]] over the `dnscat2.ps1` script to windows pivot host. Import module into powershell:
 ```powershell
 # open powershell with execution policy set to bypass
 powershell -ep bypass

@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Recon/OSINT/Users and Emails.md",
+                "file": "Dark Arts/Lateral Movement/Pass-the-Hash/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Users and Emails"
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "3fd00ce79a330bf3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,12 +189,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32c0081303da8d8d",
+  "active": "3fd00ce79a330bf3",
   "lastOpenFiles": [
-    "Dark Arts/Pillaging/Dump Hashes remotely.md",
+    "Dark Arts/Lateral Movement/Pass-the-Hash/Windows.md",
+    "Dark Arts/Lateral Movement/Pass-the-Hash/Linux.md",
+    "Dark Arts/Lateral Movement/Pass-the-Hash",
+    "Dark Arts/Cracking/Unshadow.md",
+    "Dark Arts/Lateral Movement",
+    "Dark Arts/Cracking/Hashcat.md",
+    "Dark Arts/Cracking/Hash Types.md",
+    "Dark Arts/Pillaging/Credential Hunting/Linux.md",
+    "Dark Arts/Cracking",
+    "Dark Arts/Pillaging/Credential Hunting/Windows.md",
+    "Dark Arts/Pillaging/Credential Hunting",
+    "Dark Arts/Pillaging/Dump Hashes/remotely.md",
+    "Dark Arts/Pillaging/Dump Hashes/SAM.md",
+    "Dark Arts/Pillaging/Dump Hashes/LSASS.md",
+    "Dark Arts/Tools/Evil-WinRM.md",
+    "Dark Arts/Pillaging/Dump Hashes",
+    "Dark Arts/Tools/netexec.md",
+    "Dark Arts/Active Directory/Post Domain Compromise/Dump NTDS.dit.md",
+    "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
+    "Dark Arts/Privesc/Linux/Exploits/Abuse SUIDs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
     "Dark Arts/Recon/OSINT/Users and Emails.md",
-    "Dark Arts/Pillaging/Dump SAM.md",
-    "Dark Arts/Pillaging/Dump LSASS.md",
     "Dark Arts/Pillaging/Remote",
     "Dark Arts/Pillaging/Local",
     "Dark Arts/File Transfer/SMB.md",
@@ -190,31 +225,8 @@
     "Dark Arts/Pillaging/~Home.md",
     "Dark Arts/Web App/Recon/Spidering.md",
     "Dark Arts/Pillaging",
-    "Dark Arts/Web App/Information Gathering/Automated Tools/FinalRecon.md",
-    "Dark Arts/Tools/Passwords/Default Credentials.md",
-    "Dark Arts/Tools/Passwords/Hydra.md",
-    "Dark Arts/Tools/Passwords/CeWL.md",
-    "Dark Arts/Tools/Passwords/Hashcat.md",
-    "Dark Arts/Tools/netexec.md",
-    "Dark Arts/Tools/Passwords/Metasploit.md",
-    "Dark Arts/Tools/Evil-WinRM.md",
     "Dark Arts/Tools/Passwords",
-    "Dark Arts/Active Directory/Post Breach/Enumeration.md",
-    "Dark Arts/Active Directory/Post Breach/Attacks/Pass Attacks.md",
-    "Dark Arts/Services/SMB.md",
-    "Dark Arts/Web App/Information Gathering/~Home.md",
     "Dark Arts/Web App/Information Gathering/Automated Tools",
-    "Dark Arts/Web App/Recon/Subdomain Enum/Virtual Hosts.md",
-    "Dark Arts/Web App/Recon/WPScan.md",
-    "Dark Arts/Web App/Recon/Subdomain Enum/Bruteforce.md",
-    "Dark Arts/Web App/Information Gathering/DNS Zone Transfer.md",
-    "Dark Arts/Web App/OSINT/Search Engine Quieries.md",
-    "Dark Arts/Web App/OSINT",
-    "Dark Arts/Web App/LFI/Apache Log Poisoning.md",
-    "Dark Arts/Web App/Information Gathering",
-    "Dark Arts/Privesc/Linux/Exploits/Kernel Exploits",
-    "Dark Arts/Exploit Dev",
-    "Dark Arts/Web App/LFI",
     "Screenshots/55.webp",
     "Screenshots/Pasted image 20240607090602.png"
   ]
