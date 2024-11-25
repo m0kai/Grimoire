@@ -1,4 +1,14 @@
 -- -
+### Search for credentials in file name or inside files
+```bash
+# find "credentials" string in file name
+find <location> -name *<str>*
+find /mnt/Finance/ -name *cred*
+
+# find "cred" within a file
+grep -rn <location> -ie <str>
+grep -rn /mnt/Finance/ -ie cred
+```
 ### Config Files
 See if there are any config files on the system and see if they hold any credentials.
 ```bash
@@ -45,6 +55,11 @@ grep -rnw "ssh-rsa" /home/* 2>/dev/null | grep ":1"
 ### Bash History
 ```bash
 tail -n5 /home/*/.bash*
+```
+### Protected Files
+Files that may have something juicy in them but are encrypted. May or may not actually be encrypted.
+```bash
+for ext in $(echo ".xls .xls* .xltx .csv .od* .doc .doc* .pdf .pot .pot* .pp*");do echo -e "\nFile extension: " $ext; find / -name *$ext 2>/dev/null | grep -v "lib\|fonts\|share\|core" ;done
 ```
 ### Logs
 The following are log file locations and a short description of why they exist:

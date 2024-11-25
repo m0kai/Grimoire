@@ -1,0 +1,2 @@
+-- -
+General commands you can use to enumerate the database and interact with it. References the [Microsoft Docs](https://learn.microsoft.com/en-us/sql/t-sql/statements/statements?view=sql-server-ver15) to move around. 

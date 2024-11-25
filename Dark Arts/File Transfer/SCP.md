@@ -1,4 +1,4 @@
-sc- --
+- --
 Think of it as `cp` over `ssh`
 ### Upload
 ```bash
@@ -20,3 +20,4 @@ scp ubuntu@10.10.10.10:/home/ubuntu/local.txt .
 scp -r <dir> <user>@<targetip>:<path>
 scp -r rpivot ubutnu@10.10.10.10:/home/ubuntu
 ```
+HTB{PeopleReuse_PWsEverywhere!}

@@ -32,6 +32,24 @@ start lazagne.exe all
 searches for a provided string in files on the file system. This one should be builtin to cmd and powershell.
 ```powershell
 findstr /SIM /C:"password" *.txt *.ini *.cfg *.config *.xml *.git *.ps1 *.yml
+
+# look for sensitive info in files
+findstr /s /i <string> <location>\*.*
+findstr /s /i cred C:\*.*
+
+# in powershell, you can accomplish the same thing with the Select-String cmdlet
+Get-ChildItem -Recurse -Path N:\ | Select-String "cred" -List
+```
+Further [examples](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/findstr#examples) of `findstr`
+### Dir
+Search for interesting file names
+```powershell
+dir <location>\*<str>* /s /b 
+dir n:\*cred* /s /b
+n:\*secret* /s /b 
+
+# in powershell you can do the same thing with the Get-ChildItem cmdlet
+Get-ChildItem -Recurse -Path N:\ -Include *cred* -File
 ```
 ### Where to look
 A few places to consider

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Pillaging/Credential Hunting/Linux.md",
+                "file": "Dark Arts/Tools/netexec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "netexec"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cewl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
+                "file": "Dark Arts/Passwords/Cracking/Specific Encryptions/BitLocker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Looting SSH keys"
+              "title": "Backlinks for BitLocker"
             }
           },
           {
@@ -193,42 +193,42 @@
   },
   "active": "3fd00ce79a330bf3",
   "lastOpenFiles": [
-    "Dark Arts/Lateral Movement/Pass-the-Ticket/Linux.md",
-    "Dark Arts/Lateral Movement/Pass-the-Ticket/Windows.md",
-    "Dark Arts/Lateral Movement/Pass-the-Ticket/OverPass the Hash.md",
-    "Dark Arts/Lateral Movement/Pass-the-Ticket",
-    "Dark Arts/Lateral Movement/Pass-the-Hash/Linux.md",
-    "Dark Arts/Lateral Movement/Pass-the-Hash/UAC Limits for Local Accounts.md",
+    "Dark Arts/File Transfer/SCP.md",
+    "Linux Stuff/Quick Reference.md",
+    "Dark Arts/Services/SSH.md",
     "Dark Arts/Pillaging/Credential Hunting/Linux.md",
-    "Dark Arts/Privesc/Linux/Exploits/Cron Jobs.md",
-    "Dark Arts/Privesc/Linux/Exploits/Abuse SUIDs.md",
-    "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/CVE Exploits.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/LD_PRELOAD.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/Shell Escapes.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/Privileged File Read.md",
+    "Dark Arts/Services/SMB.md",
+    "Dark Arts/Services/FTP.md",
+    "Dark Arts/Passwords/Network Bruteforce/Medusa.md",
+    "Dark Arts/Passwords/Network Bruteforce",
+    "Dark Arts/Services/SQL/MSSQL/Commands.md",
+    "Dark Arts/Services/SQL/MSSQL/Linux.md",
+    "Dark Arts/Services/SQL/MSSQL/Windows.md",
+    "Dark Arts/Services/SQL/MSSQL",
+    "Dark Arts/Services/SQL/MySQL/Linux.md",
+    "Dark Arts/Services/SQL/MySQL/Windows.md",
+    "Dark Arts/Services/SQL/MySQL/Commands.md",
+    "Dark Arts/Services/SQL/MySQL",
+    "Dark Arts/Passwords/Permutations.md",
+    "Dark Arts/Services/SQL",
+    "Dark Arts/Pillaging/Credential Hunting/Windows.md",
+    "Dark Arts/Passwords/Cracking/Hashcat.md",
+    "Dark Arts/Passwords/Cracking/Specific Encryptions/BitLocker.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
     "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
     "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
-    "Dark Arts/Pillaging/Dump Hashes/remotely.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
     "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
     "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
     "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
     "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
-    "Dark Arts/Cracking/Hashcat.md",
-    "Dark Arts/Cracking/Hash Types.md",
-    "Dark Arts/Lateral Movement/Pass-the-Hash/Windows.md",
+    "Dark Arts/Passwords/Cracking/Specific Encryptions/OpenSSL.md",
+    "Dark Arts/Passwords/Cracking/John The Ripper.md",
+    "Dark Arts/Passwords/Cracking/Specific Encryptions",
+    "Dark Arts/Passwords/Web App",
+    "Dark Arts/Passwords",
+    "Untitled",
+    "Dark Arts/Lateral Movement/Pass-the-Ticket",
     "Dark Arts/Lateral Movement/Pass-the-Hash",
-    "Dark Arts/Lateral Movement",
-    "Dark Arts/Cracking",
-    "Dark Arts/Pillaging/Credential Hunting",
-    "Dark Arts/Pillaging/Dump Hashes",
-    "Dark Arts/Pillaging/Remote",
-    "Dark Arts/Pillaging/Local",
-    "Dark Arts/Pillaging",
-    "Dark Arts/Tools/Passwords",
     "Screenshots/55.webp",
     "Screenshots/Pasted image 20240607090602.png"
   ]
