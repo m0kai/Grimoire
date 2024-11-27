@@ -7,9 +7,9 @@ Ways to actively enumerate valid usernames on the AD network. Most of these tech
 For instructions on compiling the binary from source, check the tool notes page [[kerbrute|here]]
 ![[kerbrute#^3c4231]]
 #### enum4linux 
-![[enum4linux#^526e0f]]
+![[Hacking Scratch/Tools/enum4linux#^526e0f]]
 #### rpcclient
-![[rpcclient#^0efe93]]
+![[Hacking Scratch/Tools/Active Directory/Linux/rpcclient#^0efe93]]
 #### crackmapexec
 ![[Hacking Scratch/Tools/Active Directory/Linux/crackmapexec#^99029f]]
 #### ldapsearch

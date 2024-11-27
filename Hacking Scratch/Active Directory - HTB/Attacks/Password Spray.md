@@ -8,7 +8,7 @@ Try to log into multiple accounts with one password, so roll through a wordlist 
 ## Attack
 ### From Linux
 #### rpcclient
-![[rpcclient#^c36a7d]]
+![[Hacking Scratch/Tools/Active Directory/Linux/rpcclient#^c36a7d]]
 #### kerbrute
 ![[kerbrute#^ab0bcd]]
 #### crackmapexec

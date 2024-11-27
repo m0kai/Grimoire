@@ -2,5 +2,5 @@
 #### Installation
 [[Install Toolkit]]
 #### Shells
-[[psexec]]
+[[Hacking Scratch/Tools/Active Directory/Impacket/psexec]]
 [[wmiexec]]

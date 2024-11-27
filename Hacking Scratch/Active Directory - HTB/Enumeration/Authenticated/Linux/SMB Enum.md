@@ -13,7 +13,7 @@ Enumerate SMB using valid domain credentials, this means you have a user and pas
 ![[Hacking Scratch/Tools/Active Directory/Linux/crackmapexec#^c5e901]]
 ### SMBMap
 #### Shares and Permissions Enum
-![[SMBMap#^64bb50]]
+![[Hacking Scratch/Tools/Active Directory/Linux/SMBMap#^64bb50]]
 #### Directory listing contents of share
-![[SMBMap#^cc7a8d]]
+![[Hacking Scratch/Tools/Active Directory/Linux/SMBMap#^cc7a8d]]
 

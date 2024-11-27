@@ -10,3 +10,4 @@ Same process for #NBT-NS and #MDNS poisoning. Basic explanation is that LLMNR is
 ```bash
 hashcat -m 5600 hash /usr/share/wordlist/rockyou.txt -O 
 ```
+All saved logs can be found at: `/usr/share/responder/logs`
