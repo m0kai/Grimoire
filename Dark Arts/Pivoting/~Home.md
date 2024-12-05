@@ -11,3 +11,5 @@ Various pivoting techniques for various situations.
 ###### Meterpreter workflows
 [[Tunneling]]
 [[Port Forwarding]]
+### Resources
+- Diagram Network Topology with [Draw.io](https://app.diagrams.net/)
