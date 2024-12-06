@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Services/SQL/MySQL/Linux.md",
+                "file": "Dark Arts/Services/RDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "RDP"
             }
           }
         ]
@@ -164,16 +164,20 @@
   },
   "active": "3fd00ce79a330bf3",
   "lastOpenFiles": [
+    "Dark Arts/Pivoting/SSH/Dynamic Port Forwarding.md",
+    "Dark Arts/Pivoting/netsh.exe.md",
+    "Dark Arts/Pivoting/Enumeration.md",
+    "Dark Arts/Pivoting/DNS Tunneling.md",
+    "Dark Arts/Pivoting/~Home.md",
+    "Dark Arts/Services/SQL/MySQL/Linux.md",
     "Dark Arts/Services/SQL/MySQL/Default Databases.md",
     "Dark Arts/Services/SQL/MySQL/Commands.md",
-    "Dark Arts/Services/SQL/MySQL/Linux.md",
     "Dark Arts/Services/Mail/SMTP.md",
     "Dark Arts/Passwords/Network Bruteforce/Medusa.md",
     "Dark Arts/Passwords/Password Spray.md",
     "Dark Arts/Services/SQL/MySQL/Windows.md",
     "Dark Arts/Services/SQL/MSSQL/Commands.md",
     "Dark Arts/Services/SQL/MSSQL/Connect From Linux.md",
-    "Dark Arts/Pivoting/~Home.md",
     "Dark Arts/Practice!!!.md",
     "Dark Arts/Services/DNS.md",
     "Dark Arts/Services/Mail/POP3.md",
@@ -188,10 +192,6 @@
     "Dark Arts/Services/RDP.md",
     "Dark Arts/Web App/Recon/parameter fuzzing.md",
     "Dark Arts/Passwords/Password Spraying",
-    "Dark Arts/Web App/Recon/Subdomain Enum/Virtual Hosts.md",
-    "Dark Arts/Web App/Recon/Subdomain Enum/CT Logs.md",
-    "Dark Arts/Web App/Recon/Subdomain Enum/Bruteforce.md",
-    "Dark Arts/Web App/Recon/ffuf.md",
     "Dark Arts/Services/SMB/Tools",
     "Dark Arts/Services/SMB",
     "Dark Arts/Passwords/Network Bruteforce",
