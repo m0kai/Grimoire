@@ -1,4 +1,3 @@
-kill
 -- -
 Presented as a way to get a reverse shell from an internal host to your attack host that is not connected to the internal network directly. You will be tunneling the reverse shell through a pivot host you control. 
 ### Steps
