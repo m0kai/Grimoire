@@ -1,5 +1,5 @@
 -- -
-Tools/scripts you will need to [[Dark Arts/File Transfer/Linux|File Transfer]] that automatically enumerate a lot of the other stuff in this section.
+Tools/scripts you will need to [[Dark Arts I/File Transfer/Linux|File Transfer]] that automatically enumerate a lot of the other stuff in this section.
 ```bash
 # linpeas
 ./linpeas.sh

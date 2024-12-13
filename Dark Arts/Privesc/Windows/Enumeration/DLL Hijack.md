@@ -1,7 +1,7 @@
 -- -
 The explanation for doing this wasn't found to be satisfactory, so do research or along the way fill in how to actually do this practically. 
 #### winpeas.exe
-[[Dark Arts/File Transfer/Windows|File Transfer]] the executable over to the target box. 
+[[Dark Arts I/File Transfer/Windows|File Transfer]] the executable over to the target box. 
 ```powershell
 # dumps a lot of info
 # looking for:

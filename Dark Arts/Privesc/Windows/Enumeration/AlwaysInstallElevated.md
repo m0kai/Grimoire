@@ -10,7 +10,7 @@ reg query HKCU\Softwar\Policies\Microsoft\Windows\Installer
 ```
 From here, [[Dark Arts/Privesc/Windows/Exploits/AlwaysInstallElevated|Exploit]]
 #### Using PowerUp.ps1
-You will need to [[Dark Arts/File Transfer/Windows|file transfer]] it to target.
+You will need to [[Dark Arts I/File Transfer/Windows|file transfer]] it to target.
 ```powershell
 # if on cmd, open powershell
 powershell -ep bypass
@@ -30,7 +30,7 @@ If the above method of running PowerUp does not work because you can't load up p
 # on your attack box edit the PowerUp.ps1 file and include the command it should run after loading:
 Invoke-AllChecks
 ```
-Then, [[Dark Arts/File Transfer/Windows|File Transfer]] the script over to the target box. 
+Then, [[Dark Arts I/File Transfer/Windows|File Transfer]] the script over to the target box. 
 Then on the shell just run:
 ```powershell
 powershell -ep bypass .\PowerUp.ps1

@@ -1,7 +1,7 @@
 -- -
 Hijacking the path of a binary.
 #### Using PowerUp.ps1
-[[Dark Arts/File Transfer/Windows|File Transfer]] `PowerUp.ps1` to target host
+[[Dark Arts I/File Transfer/Windows|File Transfer]] `PowerUp.ps1` to target host
 ```powershell
 # if in cmd
 powershell -ep bypass
@@ -22,13 +22,13 @@ If the above method of running PowerUp does not work because you can't load up p
 # on your attack box edit the PowerUp.ps1 file and include the command it should run after loading:
 Invoke-AllChecks
 ```
-Then, [[Dark Arts/File Transfer/Windows|File Transfer]] the script over to the target box. 
+Then, [[Dark Arts I/File Transfer/Windows|File Transfer]] the script over to the target box. 
 Then on the shell just run:
 ```powershell
 powershell -ep bypass .\PowerUp.ps1
 ```
 #### Using Accesschk64.exe
-[[Dark Arts/File Transfer/Windows|File Transfer]] `accesschk64.exe` to target host
+[[Dark Arts I/File Transfer/Windows|File Transfer]] `accesschk64.exe` to target host
 ```powershell
 # u: suppress errors
 # v: verbose

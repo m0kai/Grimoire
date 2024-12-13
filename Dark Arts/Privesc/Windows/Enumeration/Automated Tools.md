@@ -4,7 +4,7 @@
 ##### winPEAS.exe
 [Repo](https://github.com/peass-ng/PEASS-ng/tree/master/winPEAS)
 Requires Net.4 to run. They provide a .bat file for situations where Net.4 is not available.
-[[Dark Arts/File Transfer/~Home|File Transfer]] to target:
+[[Dark Arts I/File Transfer/~Home|File Transfer]] to target:
 ```powershell
 # cd to location of executable
 winPEAS.exe

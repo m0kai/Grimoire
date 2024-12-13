@@ -4,7 +4,7 @@ As it sounds, you know what this is. The service has a path that includes a spac
 For example, if the path is `C:\Program Files\service.exe`, you put your malware in `C:\Program.exe`, and that gets picked up before the first path. 
 
 #### winpeas.exe
-You can also get this information using winpeas.exe for enumeration. [[Dark Arts/File Transfer/Windows|File Transfer]] the executable over to the target box. 
+You can also get this information using winpeas.exe for enumeration. [[Dark Arts I/File Transfer/Windows|File Transfer]] the executable over to the target box. 
 ```powershell
 # dumps a lot of info
 # looking for:
@@ -17,7 +17,7 @@ winpeas.exe
 ```
 From her, [[Dark Arts/Privesc/Windows/Exploits/Unquoted Service Paths|Exploit]]
 #### Using PowerUp.ps1
-[[Dark Arts/File Transfer/Windows|File Transfer]] `PowerUp.ps1` to target host
+[[Dark Arts I/File Transfer/Windows|File Transfer]] `PowerUp.ps1` to target host
 ```powershell
 # if in cmd
 powershell -ep bypass
@@ -45,7 +45,7 @@ If the above method of running PowerUp does not work because you can't load up p
 # on your attack box edit the PowerUp.ps1 file and include the command it should run after loading:
 Invoke-AllChecks
 ```
-Then, [[Dark Arts/File Transfer/Windows|File Transfer]] the script over to the target box. 
+Then, [[Dark Arts I/File Transfer/Windows|File Transfer]] the script over to the target box. 
 Then on the shell just run:
 ```powershell
 powershell -ep bypass .\PowerUp.ps1
