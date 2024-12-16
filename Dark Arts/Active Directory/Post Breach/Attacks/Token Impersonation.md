@@ -40,11 +40,11 @@ Now go to the below section "Post-Impersonate" for creating yourself a user in D
 - [Code your own](https://www.insecure.in/blog/token-impersonation-without-metasploit)
 ### Metasploit Impersonate
 #### Get Shell
-[[Dark Arts I/Active Directory/Post Breach/Tools/Attacks/metasploit]]
-![[Dark Arts I/Active Directory/Post Breach/Tools/Attacks/metasploit#^66f29a]]
+[[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit]]
+![[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit#^66f29a]]
 #### Impersonate User
-[[Dark Arts I/Active Directory/Post Breach/Tools/Attacks/metasploit]]
-![[Dark Arts I/Active Directory/Post Breach/Tools/Attacks/metasploit#^c51a79]]
+[[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit]]
+![[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit#^c51a79]]
 
 ### Post-Impersonate
 #### Add new user to domain admins
@@ -60,8 +60,8 @@ net group "Domain Admins" hawkeye /ADD /DOMAIN
 ```
 #### Compromise
 From here, you have another account to play with, so loop back to other attacks:
-[[Dark Arts I/Active Directory/Post Breach/Attacks/Kerberoasting|Kerberoasting]]
+[[Dark Arts/Active Directory/Post Breach/Attacks/Kerberoasting|Kerberoasting]]
 [[Hacking Scratch/Mitigations/Active Directory/Pass Attacks|Pass Attacks]]
-[[Dark Arts I/Active Directory/Post Breach/Attacks/Token Impersonation]]
+[[Dark Arts/Active Directory/Post Breach/Attacks/Token Impersonation]]
 
-If you add the new user to domain admins, you can try to get all a password dump of the entire domain using [[Dark Arts I/Active Directory/Post Breach/Tools/Attacks/secretsdump|secretsdump]] or DCSync or whatever you want. 
+If you add the new user to domain admins, you can try to get all a password dump of the entire domain using [[Dark Arts/Active Directory/Post Breach/Tools/Attacks/secretsdump|secretsdump]] or DCSync or whatever you want. 

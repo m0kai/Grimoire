@@ -9,8 +9,8 @@ Group Policy Preferences Attack. Also known as cPassword attack. Group Policy Pr
 gpp-decrypt <encrypted cPassword str> 
 ```
 #### Automated
-[[Dark Arts I/Active Directory/Post Breach/Tools/Attacks/metasploit]]
-![[Dark Arts I/Active Directory/Post Breach/Tools/Attacks/metasploit#^030f63]]
+[[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit]]
+![[Dark Arts/Active Directory/Post Breach/Tools/Attacks/metasploit#^030f63]]
 #### Mitigation
 - Patch, fixed in KB2962486
 - Delete old GPP XML files stored in the `SYSVOL` share of the DC.

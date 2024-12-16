@@ -2,9 +2,9 @@
 High-level strategies for attacking AD #postbreach after you have one or more valid sets of credentials. 
 ### Strategy
 - Quick Wins
-	- [[Dark Arts I/Active Directory/Post Breach/Attacks/Kerberoasting|Kerberoasting]]
-	- [[Dark Arts I/Active Directory/Post Breach/Tools/Attacks/secretsdump|secretsdump]]
-	- [[Dark Arts I/Active Directory/Post Breach/Attacks/Pass Attacks|Pass Attacks]]
+	- [[Dark Arts/Active Directory/Post Breach/Attacks/Kerberoasting|Kerberoasting]]
+	- [[Dark Arts/Active Directory/Post Breach/Tools/Attacks/secretsdump|secretsdump]]
+	- [[Dark Arts/Active Directory/Post Breach/Attacks/Pass Attacks|Pass Attacks]]
 	- Can you  move vertically?
 	- Can you move laterally?
 - Dig Deep
@@ -14,7 +14,7 @@ High-level strategies for attacking AD #postbreach after you have one or more va
 		- Shells
 		- Email
 		- Service Desk Tickets
-	- [[Dark Arts I/Active Directory/Post Breach/Enumeration]]
+	- [[Dark Arts/Active Directory/Post Breach/Enumeration]]
 	- [[Bloodhound]]
 		- Who are our users?
 		- Who are our Domain Admins?

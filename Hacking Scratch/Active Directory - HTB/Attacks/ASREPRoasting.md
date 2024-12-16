@@ -13,7 +13,7 @@ $krb5asrep$23$mmorgan@INLANEFREIGHT.LOCAL:D18650F4F4E0537E0188A6897A478C55$09788
 ![[Hacking Scratch/Tools/Passwords/Hashcat#^364f87]]
 ### Kerbrute
 You can also do this automatically with #crackmapexec and a valid userlist
-![[kerbrute#^38353d]]
+![[Hacking Scratch/Tools/Active Directory/Linux/kerbrute#^38353d]]
 This will automatically retrieve the AS-REP hash ready to crack with #hashcat, shown above. 
 ### GetNPUsers
 You can also do this automatically with #GetNPUsers and a userlist. The output will spit out the AS-REP hash ready for cracking in #hashcat, show above.

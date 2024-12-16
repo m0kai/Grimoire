@@ -10,7 +10,7 @@ Try to log into multiple accounts with one password, so roll through a wordlist 
 #### rpcclient
 ![[Hacking Scratch/Tools/Active Directory/Linux/rpcclient#^c36a7d]]
 #### kerbrute
-![[kerbrute#^ab0bcd]]
+![[Hacking Scratch/Tools/Active Directory/Linux/kerbrute#^ab0bcd]]
 #### crackmapexec
 ###### Domain-level Password spray
 This will password spray AD accounts
