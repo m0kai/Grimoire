@@ -13,6 +13,6 @@ For instructions on compiling the binary from source, check the tool notes page 
 #### crackmapexec
 ![[Hacking Scratch/Tools/Active Directory/Linux/crackmapexec#^99029f]]
 #### ldapsearch
-![[ldapsearch#^351fbd]]
+![[Hacking Scratch/Tools/Active Directory/Linux/ldapsearch#^351fbd]]
 #### windapsearch
-![[windapsearch#^2767f4]]
+![[Hacking Scratch/Tools/Active Directory/Linux/windapsearch#^2767f4]]

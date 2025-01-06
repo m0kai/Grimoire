@@ -8,3 +8,5 @@ enum4linux is in essence a wrapper script that uses other common Samba tools to 
 - smbclient 	445/TCP
 ### General Usage
 ![[Dark Arts/Active Directory/Initial Breach/Enum/Password Policy#^5028a6|Password Policy]]
+### Generate Username List
+![[Generate Target Userlist#^3ddb4d]]

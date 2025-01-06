@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Stuff/Customization/Set Cursor Theme.md",
+                "file": "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set Cursor Theme"
+              "title": "SUIDs"
             }
           }
         ],
@@ -179,9 +179,18 @@
   },
   "active": "66989d2c5defd0df",
   "lastOpenFiles": [
-    "Linux Stuff/Quick Reference.md",
-    "Linux Stuff/Customization/Set Cursor Theme.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
+    "Dark Arts/Active Directory/Post Breach/Enum/Generate Target Userlist.md",
+    "Dark Arts/Tools/windapsearch.md",
+    "Dark Arts/Tools/ldapsearch.md",
     "Dark Arts/Active Directory/Post Breach/Enum/Password Policy.md",
+    "Dark Arts/Tools/Netexec.md",
+    "Dark Arts/Tools/rpcclient.md",
+    "Dark Arts/Tools/enum4linux/enum4linux.md",
+    "Dark Arts/Active Directory/Initial Breach/Enum/User Bruteforce.md",
+    "Dark Arts/Active Directory/Initial Breach/Passback Attack.md",
+    "Linux Stuff/Customization/Set Cursor Theme.md",
+    "Linux Stuff/Quick Reference.md",
     "Dark Arts/Active Directory/Initial Breach/Enum/Password Policy.md",
     "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
     "Dark Arts I/Niche Enum Vectors/Pulling data from Image Files.md",
@@ -196,17 +205,8 @@
     "Dark Arts I/Web App/Recon/Spidering.md",
     "Dark Arts I/Web App/Recon/parameter fuzzing.md",
     "Dark Arts I/Web App/Recon/WPScan.md",
-    "Dark Arts I/Practice!!!.md",
-    "Dark Arts I/Web App/LFI/SSH Auth Log Poisoning.md",
-    "Dark Arts I/Web App/LFI/Apache Log Poisoning.md",
-    "Dark Arts I/Web App/Injection/SQLi.md",
-    "Dark Arts I/Services/SQL/MySQL/Commands.md",
-    "Dark Arts/Tools/enum4linux/enum4linux-ng.md",
-    "Dark Arts/Tools/enum4linux/enum4linux.md",
     "Dark Arts/Tools/enum4linux",
-    "Hacking Scratch/Active Directory - HTB/Attacks/LLMNR, NBT-NS, & MDNS Poisoning.md",
     "Dark Arts/Active Directory/Initial Breach/Enum",
-    "Dark Arts/Active Directory/Post Breach/Enum/General.md",
     "Dark Arts/Active Directory/Post Breach/Enum",
     "Dark Arts/Tools",
     "Screenshots/Pasted image 20241213073648.png",

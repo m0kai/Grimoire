@@ -1,5 +1,5 @@
 ### windapsearch
 ##### Enum Domain Admins
-![[windapsearch#^c4f0a5]]
+![[Hacking Scratch/Tools/Active Directory/Linux/windapsearch#^c4f0a5]]
 ##### Enum Privileged Users
-![[windapsearch#^bfae1e]]
+![[Hacking Scratch/Tools/Active Directory/Linux/windapsearch#^bfae1e]]
