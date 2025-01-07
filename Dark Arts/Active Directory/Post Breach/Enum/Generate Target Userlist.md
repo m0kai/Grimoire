@@ -45,7 +45,14 @@ ldapsearch -h 172.16.5.5 -x -b "DC=INLANEFREIGHT,DC=LOCAL" -s sub "(&(objectclas
 ##### windapsearch
 Get valid domain users from anonymous bind
 ```bash
-./windapsearch.py --dec-ip <dc ip> -u "" -U
+./windapsearch.py --dc-ip <dc ip> -u "" -U
 ```
 
 ^bb80aa
+
+##### Kerbrute
+Uses kerberos pre-auth to determine if a username is valid. Potentially more stealthy approach and does not lock out accounts.
+```bash
+kerbrute userenum -d <domain> --dc <dc ip> <wordlist>
+kerbrute userenum -d inlanefreight.local --dc 172.16.5.5 /opt/jsmith.txt
+```
