@@ -2,7 +2,7 @@
 ### Attacks
 - See if RDP version is vulnerable to an exploit
 - Try [[Medusa| Brute forcing a users password]]
-- Try a [[Dark Arts I/Passwords/Password Spray|Password Spray Attack]]
+- Try a [[Dark Arts/Passwords/Password Spray/Linux|Password Spray Attack]]
 - Try a [[PtH]] attack
 ### Connecting w/ valid credentials
 ```bash

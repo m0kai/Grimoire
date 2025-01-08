@@ -19,3 +19,6 @@ sudo mv kerbrute_linux-amd64 /usr/local/bin/kerbrute
 ```
 
 ^095548
+
+### Password Spray
+![[Dark Arts/Passwords/Password Spray/Linux#^f1c1f5|Password Spray]]
