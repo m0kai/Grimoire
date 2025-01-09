@@ -1,0 +1,2 @@
+-- -
+If you have access to the internal network but not AD, you can try to get a #foothold by mounting a password spraying attack. You can also try to get a #foothold this way if you have access to one or more hosts that are externally facing. See the [[Dark Arts/Passwords/Password Spray/~Home|Password Spraying Homepage]] for how to perform attacks. 

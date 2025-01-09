@@ -13,3 +13,4 @@ These vectors generally rely on putting yourself on the network in a way that us
 [[Dark Arts/Active Directory/Initial Breach/IPv6 DNS Takeover|IPv6 DNS Takeover]]
 ### Password Attacks
 [[Passback Attack]]
+[[Dark Arts/Active Directory/Initial Breach/Password Spraying|Password Spraying]]

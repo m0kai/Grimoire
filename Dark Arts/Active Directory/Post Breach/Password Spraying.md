@@ -1,0 +1,2 @@
+-- -
+After you have access to AD, you can try to #furtheraccess by mounting a password spraying attack. You can also see how much access your valid credentials have on the various systems on the AD network this way. See the [[Dark Arts/Passwords/Password Spray/~Home|Password Spraying Homepage]] for how to perform attacks. 

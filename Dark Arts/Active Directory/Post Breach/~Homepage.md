@@ -10,6 +10,7 @@ This section revolves around moving after you have a single (or multiple) AD acc
 [[Dark Arts/Active Directory/Post Breach/Attacks/Token Impersonation|Token Impersonation]]
 [[GPP Attacks]]
 [[LNK File Attacks]]
+[[Dark Arts/Active Directory/Post Breach/Password Spraying|Password Spraying]]
 ### Tools
 -- -
 ##### Enumeration Tools
