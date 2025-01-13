@@ -29,7 +29,13 @@ enumdomusers
 ##### Netexec
 Will return valid users with the amount of invalid login attempts on that user as well as the last time there was an incorrect login attempt. Helps us determine how close an account is to lock out. If the environment uses multiple DCs, then the bad login data points would be tracked separately on each DC, so we would need to query each DC and add up the amount of bad login attempts there have been for that account. 
 ```bash
+# you may need to use sudo
+# you may need to point to a DC specifically rather than any server on the network.
+# w/o credentials
 netexec smb <ip> --users
+
+# w/ credentials
+netexec smb <ip> -u <user> -p <passwd> --users
 ```
 
 ^38aeea

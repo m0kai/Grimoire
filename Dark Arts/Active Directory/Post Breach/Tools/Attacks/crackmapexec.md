@@ -55,3 +55,4 @@ crackmapexec smb <cidr range> -u <username> -H <NTLM hash> --local-auth -M lsass
 
 ^116e4a
 
+### Enum usernames on a domain

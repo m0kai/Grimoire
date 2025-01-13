@@ -28,7 +28,7 @@ netexec <protocol> <ip> -u <userlist> -p '<passwd>' --local-auth
 netexec <protocol> <ip> -u <userlist> -p '<passwd>'
 ```
 ### PsExec
-![[Dark Arts I/Services/SMB/Tools/PSExec#^2f3c64|PSExec]]
+![[Dark Arts/Services/SMB/Tools/PSExec#^2f3c64|PSExec]]
 ### Enum Logged on Users
 If you have local admin access, you can see which users are currently logged into the system.
 ```bash

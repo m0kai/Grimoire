@@ -1,6 +1,7 @@
 -- -
-### Linux
--- -
+### netexec
+[[Dark Arts/Tools/Netexec|Netexec tool page]]
+![[Enum SMB Shares#^b3c92f]]
 #### Mount Share
 Install:
 ```bash
