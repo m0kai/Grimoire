@@ -10,3 +10,5 @@ Users currently logged onto a system
 ![[Logged On Users#^53adc7]]
 ### Enum SMB Shares
 ![[Enum SMB Shares#^b3c92f]]
+### Get Shell via Impacket and SMB
+![[Dark Arts/Services/SMB/Tools/PSExec#^5193b2|PSExec]]

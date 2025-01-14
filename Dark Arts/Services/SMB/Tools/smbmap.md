@@ -4,7 +4,10 @@
 # scan avaialable shares 
 smbmap -H <ip>
 
-# scan share for files/directories
+# scan available shares w/ creds
+smbmap -u [user] -p [passwd] -d [domain] -H [ip]
+
+# Recursively scan share for files/directories
 smbmap -H <ip> -r <share>
 smbmap -H <ip> -R <share>
 
@@ -14,3 +17,5 @@ smbmap -H <ip> --download "<share>\<file>"
 # upload file
 smbmap -H <ip> --upload <file> "<share>\<file>"
 ```
+
+^ad4ec0
