@@ -1,7 +1,7 @@
 -- -
 Companion program that displays domain data in a web context. similar output to [[ldapdomaindump]]. The repo can be found [here](https://github.com/PlumHound/PlumHound).
 ### Setup
-Make sure you started [[Bloodhound]] and ingested the domain data into it, then you can set this up. 
+Make sure you started [[Dark Arts/Tools/Active Directory/Bloodhound]] and ingested the domain data into it, then you can set this up. 
 ```bash
 # Install tool into virtual environment
 git clone https://github.com/PlumHound/PlumHound.git

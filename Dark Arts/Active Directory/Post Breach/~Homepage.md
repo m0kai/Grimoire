@@ -14,7 +14,7 @@ This section revolves around moving after you have a single (or multiple) AD acc
 ### Tools
 -- -
 ##### Enumeration Tools
-[[Bloodhound]]
+[[Dark Arts/Tools/Active Directory/Bloodhound]]
 [[ldapdomaindump]]
 [[Plumhound]]
 [[Ping Castle]]

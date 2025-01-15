@@ -15,7 +15,7 @@ High-level strategies for attacking AD #postbreach after you have one or more va
 		- Email
 		- Service Desk Tickets
 	- [[General]]
-	- [[Bloodhound]]
+	- [[Dark Arts/Tools/Active Directory/Bloodhound]]
 		- Who are our users?
 		- Who are our Domain Admins?
 		- Do we have access to sensitive machines?
