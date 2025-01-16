@@ -1,5 +1,5 @@
 -- -
-Powershell module, so need a windows host to run it from. This is the depricated software, i.e. is not currently maintained by anyone. See [[SharpView]] for one of its maintained projects. 
+Powershell module, so need a windows host to run it from. This is the depricated software, i.e. is not currently maintained by anyone. See [[Hacking Scratch/Tools/Active Directory/Windows/SharpView]] for one of its maintained projects. 
 #### Useful Functions
 ###### General
 |                       |                                                                                   |

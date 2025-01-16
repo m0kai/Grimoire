@@ -1,0 +1,1 @@
+![[Dark Arts/Tools/Active Directory/PowerView|PowerView]]

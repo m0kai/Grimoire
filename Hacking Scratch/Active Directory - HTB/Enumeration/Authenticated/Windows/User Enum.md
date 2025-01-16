@@ -4,6 +4,6 @@
 #### PowerView
 ![[PowerView (depricated)#^110738]]
 #### Basic User Information
-![[SharpView#^db25de]]
+![[Hacking Scratch/Tools/Active Directory/Windows/SharpView#^db25de]]
 #### Enum if User saves password w/ reversible encryption
 ![[Hacking Scratch/Tools/Active Directory/Windows/PowerShell#^dbd7a0|PowerShell]]
