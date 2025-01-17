@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Tools/Active Directory/SharpView.md",
+                "file": "Dark Arts/Tools/Active Directory/SharpHound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SharpView"
+              "title": "SharpHound"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/SharpView.md",
+                "file": "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/SharpHound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SharpView"
+              "title": "SharpHound"
             }
           }
         ]
@@ -178,32 +178,32 @@
   },
   "active": "3fd00ce79a330bf3",
   "lastOpenFiles": [
+    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/SharpHound.md",
     "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/SharpView.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/PowerView.md",
+    "Dark Arts/Tools/Active Directory/SharpHound.md",
+    "Dark Arts/Tools/Active Directory/Snaffler.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/Snaffler.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
+    "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
+    "Dark Arts I/Web App/LFI/SSH Auth Log Poisoning.md",
+    "Dark Arts I/Web App/LFI/Apache Log Poisoning.md",
+    "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
+    "Dark Arts/Privesc/Linux/Enumeration/General Recon/System.md",
     "Dark Arts/Tools/Active Directory/SharpView.md",
+    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/PowerView.md",
     "Dark Arts/Tools/Active Directory/PowerView.md",
     "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/Bloodhound.md",
     "Dark Arts/Tools/Active Directory/AD PowerShell Module.md",
     "Linux Stuff/Build/ASUS G14.md",
     "Dark Arts/Privesc/Linux/Enumeration/General Recon/User.md",
-    "Dark Arts/Privesc/Linux/Enumeration/General Recon/System.md",
     "Dark Arts/Privesc/Linux/Enumeration/General Recon/Network.md",
     "Dark Arts/Privesc/Linux/Enumeration/General Recon/Automation.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
     "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
     "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
-    "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
     "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
     "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
-    "Dark Arts I/Web App/Recon/Nikto.md",
-    "Dark Arts/Active Directory/Initial Breach/TTPs.md",
-    "Dark Arts/Services/SMB/Tools/smbclient.md",
-    "Dark Arts/Tools/enum4linux/enum4linux.md",
-    "Hacking Scratch/Tools/enum4linux.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/AD PowerShell Module.md",
     "Screenshots/Pasted image 20250115072707.png",
     "Dark Arts/Tools/Active Directory",
     "Dark Arts/Tools/SMB",
