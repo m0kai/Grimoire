@@ -10,7 +10,7 @@ nomnomnom information. Find data about the system, users, and such of the comput
 
 **Specific Vectors:**
 - [[Sudo]]
-- [[SUIDs]]
+- [[Dark Arts/Privesc/Linux/Enumeration/SUIDs]]
 - [[Capabilities]]
 - [[Dark Arts/Privesc/Linux/Enumeration/Cron Jobs|Cron Jobs]]
 - [[Dark Arts/Privesc/Linux/Enumeration/Password Hunting|Password Hunting]]
