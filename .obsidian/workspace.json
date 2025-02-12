@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Privesc/Linux/Exploits/Abuse Shadow File.md",
+                "file": "Linux Stuff/Troubleshooting/Fix cursor lag on second monitor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abuse Shadow File"
+              "title": "Fix cursor lag on second monitor"
             }
           },
           {
@@ -54,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -66,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unshadow",
+                "query": "RBASH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,44 +179,44 @@
   },
   "active": "3fd00ce79a330bf3",
   "lastOpenFiles": [
-    "Dark Arts/Web App/LFI/SSH Auth Log Poisoning.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/Services/nmap.md",
-    "Dark Arts/Privesc/Linux/Exploits/Abuse SUIDs.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/Services",
-    "Dark Arts/Privesc/Linux/Exploits/SUIDs",
-    "Dark Arts/Privesc/Linux/Exploits/SUIDs.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/Services/apache2.md",
-    "Pasted image 20250129162244.png",
-    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/LD_PRELOAD.md",
+    "Linux Stuff/Build/ASUS G14.md",
+    "Linux Stuff/Troubleshooting/Fix cursor lag on second monitor.md",
+    "Dark Arts/Privesc/Linux/Exploits/Services/MySQL.md",
+    "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
     "Dark Arts/Privesc/Linux/Exploits/Sudo/CVE Exploits.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
+    "Dark Arts I/Pillaging/Credential Hunting/Linux.md",
+    "Dark Arts/Passwords/Web App/Default Credentials.md",
+    "Dark Arts/Services/SQL/MySQL/Linux.md",
+    "Dark Arts/Services/SQL/MySQL/Default Databases.md",
+    "Dark Arts/Services/SQL/MySQL/Commands.md",
     "Dark Arts/Privesc/Linux/Enumeration/SUIDs.md",
-    "Dark Arts/Privesc/Windows/Exploits/Unquoted Service Paths.md",
-    "Dark Arts/Privesc/Windows/Exploits/~Home.md",
     "Dark Arts/Privesc/Linux/Enumeration/Sudo.md",
     "Dark Arts/Privesc/Linux/Enumeration/NFS Root Squashing.md",
     "Dark Arts/Privesc/Linux/Enumeration/Looting SSH keys.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Docker.md",
     "Dark Arts/Privesc/Linux/Enumeration/Cron Jobs.md",
     "Dark Arts/Privesc/Linux/Enumeration/Capabilities.md",
-    "Dark Arts/Web App/LFI/Apache Log Poisoning.md",
-    "Dark Arts/Web App/Fuzzing/param fuzzing.md",
+    "Linux Stuff/Automation/playerctl.md",
+    "Linux Stuff/Automation",
+    "Linux Stuff/Software/Nordvpn.md",
+    "Linux Stuff/Build/Key Bindings.md",
+    "Dark Arts/Privesc/Linux/Enumeration/Weak File Permissions.md",
+    "Hacking Scratch/Privesc/Linux/Breakout of restricted shell.md",
+    "Dark Arts/Services/SMB/Tools/enum4linux.md",
+    "Dark Arts/Services/SMB/Tools/rpcclient.md",
+    "Dark Arts/Services/SMB/Tools/smbclient.md",
+    "Dark Arts/Services/SMB/Tools/PSExec.md",
+    "Dark Arts/Privesc/Linux/Exploits/Sudo/Services",
+    "Dark Arts/Privesc/Linux/Exploits/SUIDs",
+    "Screenshots/Pasted image 20250129162244.png",
     "Dark Arts/Web App/Fuzzing",
     "Dark Arts/Web App",
-    "Dark Arts/Web App.md",
-    "Dark Arts/Tools/Active Directory/SharpHound.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/SharpHound.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/SharpView.md",
-    "Dark Arts/Tools/Active Directory/Snaffler.md",
-    "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/Snaffler.md",
-    "Dark Arts/Privesc/Linux/Exploits/Abuse Passwd File.md",
     "Screenshots/Pasted image 20250115072707.png",
     "Dark Arts/Tools/Active Directory",
     "Dark Arts/Tools/SMB",
     "Dark Arts/Tools/PowerShell Scripts",
     "Dark Arts/Passwords/Password Spray",
     "Dark Arts/Tools/enum4linux",
-    "Dark Arts/Active Directory/Initial Breach/Enum",
     "Screenshots/Pasted image 20241213073648.png",
     "Screenshots/Pasted image 20241212110028.png",
     "Screenshots/55.webp",
