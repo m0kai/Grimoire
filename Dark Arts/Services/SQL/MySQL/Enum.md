@@ -1,0 +1,4 @@
+-- -
+Remember that users on the website are just entries in the **ONE** of the tables on the server. So if you are going for the service, the root user is a default user for the db. 
+
+An example that bit me in the ass, if you find a valid user for the website with the username `admin`, it does not mean you should then try to brute force the password for the user `admin` on mysql on port 3306 because the admin is a user on the website, but just an entry in the `users` table in one of the webapp's db. admin is not necessarily a user in mysql. You would want to bruteforce user `root` since it's most likely a mysql user. 
