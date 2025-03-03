@@ -1,0 +1,24 @@
+-- -
+General enumeration notes for when I get stuck to help unstuck me. 
+### General Flow
+- robots.txt?
+- Fuzzing
+	- directories
+	- pages
+		- Linux
+			- html
+			- php
+			- txt
+			- zip
+	- parameters 
+	- subdomains
+- Tech Stack
+	- any CMS? 
+	- What versions of webserver, CMS, tech is using? 
+	- OS? 
+- Source Code
+	- Did you examine the page source for all the pages you have hit? 
+	- Did you check developer tool storage for cookies and the like for all pages hit? 
+- Steg
+	- are there images?
+	- are images truly only images? 

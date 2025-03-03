@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Arts/Services/SQL/MySQL/Commands.md",
+                "file": "Dark Arts/Web App/Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands"
+              "title": "Enumeration"
             }
           }
         ],
@@ -180,17 +180,20 @@
   },
   "active": "66989d2c5defd0df",
   "lastOpenFiles": [
+    "Dark Arts/Services/SSH.md",
+    "Dark Arts/Web App/Enumeration.md",
+    "Dark Arts/Web App/Fuzzing/param fuzzing.md",
+    "Dark Arts/Privesc/Linux/Exploits/Sudo/Services/apache2.md",
+    "Dark Arts/Services/SQL/MySQL/Commands.md",
     "Dark Arts/Services/SQL/MySQL/Default Databases.md",
     "Dark Arts/Services/SQL/MySQL/Windows.md",
     "Dark Arts/Services/SQL/MySQL/Linux.md",
-    "Dark Arts/Services/SQL/MySQL/Commands.md",
     "Dark Arts/Services/SQL/MySQL/Enum.md",
     "Dark Arts/Web App/Fuzzing/Virtual Hosts (subdomains).md",
     "Dark Arts I/Web App/Recon/Subdomain Enum/CT Logs.md",
     "Dark Arts I/Web App/Recon/WPScan.md",
     "Dark Arts/Web App/LFI/Apache Log Poisoning.md",
     "Dark Arts/Web App/LFI/SSH Auth Log Poisoning.md",
-    "Dark Arts/Web App/Fuzzing/param fuzzing.md",
     "Dark Arts/Active Directory/Post Breach/Tools/Enumeration/SharpHound.md",
     "Dark Arts I/Web App/Injection/SQLi.md",
     "Dark Arts I/Web App/Recon/Nikto.md",
@@ -203,9 +206,6 @@
     "Linux Stuff/Build/ASUS G14.md",
     "Dark Arts/Privesc/Linux/Exploits/Services/MySQL.md",
     "Dark Arts/Privesc/Linux/Exploits/NFS Root Squashing.md",
-    "Dark Arts/Privesc/Linux/Exploits/Sudo/CVE Exploits.md",
-    "Dark Arts/Privesc/Linux/Enumeration/Password Hunting.md",
-    "Dark Arts I/Pillaging/Credential Hunting/Linux.md",
     "Linux Stuff/Automation",
     "Dark Arts/Privesc/Linux/Exploits/Sudo/Services",
     "Dark Arts/Privesc/Linux/Exploits/SUIDs",
